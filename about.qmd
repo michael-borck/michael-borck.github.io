@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "About Me"
+description: "A brief introduction to my background, interests, and passions."
 ---
 
-About this site
+(Your about me content here)

@@ -2,18 +2,45 @@ project:
   type: website
 
 website:
-  title: "."
+  title: "Michael Borck"
+  site-url: https://michaelborck.au
+  description: A personal website showcasing my projects, interests, and professional portfolio.
+  repo-url: https://github.com/michael-borck/michael-borck.github.io
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: blog/index.qmd
-        text: Blog
       - href: about.qmd
         text: About
-
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: projects.qmd
+        text: Projects
+      - href: musings.qmd
+        text: Musings
+  page-footer:
+    center: 
+      - icon: github
+        href: https://github.com/michael-borck
+      - icon: twitter
+        href: https://x.com/Michael_Borck
+      - icon: facebook
+        href: https://x.com/Michael_Borck
+      - icon: youtube
+        href: https://x.com/Michael_Borck
+      - icon: linkedin
+        href: https://x.com/Michael_Borck
+ 
 format:
   html:
-    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    theme:
+      light: litera
+      dark: darkly
+
+execute:
+  freeze: auto  # Re-render only when source files change
