@@ -1,23 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://michael-borck.github.io/blog/posts/welcome/index.html</loc>
-    <lastmod>2024-04-24T23:02:03.571Z</lastmod>
+    <loc>https://michaelborck.au/research.html</loc>
+    <lastmod>2024-05-17T12:52:17.942Z</lastmod>
   </url>
   <url>
-    <loc>https://michael-borck.github.io/blog/index.html</loc>
-    <lastmod>2024-04-24T23:02:03.571Z</lastmod>
+    <loc>https://michaelborck.au/research/research-2.html</loc>
+    <lastmod>2024-05-17T12:43:49.286Z</lastmod>
   </url>
   <url>
-    <loc>https://michael-borck.github.io/index.html</loc>
-    <lastmod>2024-04-24T23:02:03.571Z</lastmod>
+    <loc>https://michaelborck.au/musings.html</loc>
+    <lastmod>2024-05-17T12:40:12.432Z</lastmod>
   </url>
   <url>
-    <loc>https://michael-borck.github.io/about.html</loc>
-    <lastmod>2024-04-24T23:02:03.567Z</lastmod>
+    <loc>https://michaelborck.au/musings/musings-1.html</loc>
+    <lastmod>2024-05-17T13:36:40.446Z</lastmod>
   </url>
   <url>
-    <loc>https://michael-borck.github.io/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2024-04-24T23:02:03.571Z</lastmod>
+    <loc>https://michaelborck.au/interests.html</loc>
+    <lastmod>2024-05-17T12:40:59.584Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching.html</loc>
+    <lastmod>2024-05-17T12:52:07.863Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/interests/interests-1.html</loc>
+    <lastmod>2024-05-17T12:51:28.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/index.html</loc>
+    <lastmod>2024-05-17T13:33:05.464Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/projects.html</loc>
+    <lastmod>2024-05-17T12:41:42.339Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/about.html</loc>
+    <lastmod>2024-05-17T13:37:29.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/projects/projects-1.html</loc>
+    <lastmod>2024-05-17T12:51:06.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/teaching-1.html</loc>
+    <lastmod>2024-05-17T12:51:52.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/research/research-1.html</loc>
+    <lastmod>2024-05-17T12:43:53.522Z</lastmod>
   </url>
 </urlset>

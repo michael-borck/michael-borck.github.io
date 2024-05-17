@@ -1,9 +1,44 @@
 [
   {
-    "listing": "/blog/index.html",
+    "listing": "/research.html",
     "items": [
-      "/blog/posts/post-with-code/index.html",
-      "/blog/posts/welcome/index.html"
+      "/research/research-2.html",
+      "/research/research-1.html"
+    ]
+  },
+  {
+    "listing": "/musings.html",
+    "items": [
+      "/musings/musings-1.html"
+    ]
+  },
+  {
+    "listing": "/interests.html",
+    "items": [
+      "/interests/interests-1.html"
+    ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/teaching-1.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/about.html",
+      "/research.html",
+      "/teaching.html",
+      "/projects.html",
+      "/musings.html",
+      "/interests.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/projects-1.html"
     ]
   }
 ]
