@@ -6,6 +6,14 @@
     ]
   },
   {
+    "listing": "/teaching/courses-taught.html",
+    "items": [
+      "/teaching/courses/itbp-isys2001.html",
+      "/teaching/courses/bwmt-isys3004.html",
+      "/teaching/courses/isad-isys2002.html"
+    ]
+  },
+  {
     "listing": "/musings.html",
     "items": [
       "/musings/musings-1.html"
@@ -14,10 +22,10 @@
   {
     "listing": "/teaching.html",
     "items": [
-      "/teaching/teaching-philosphy.html",
-      "/teaching/courses_taught.html",
+      "/teaching/teaching-philosophy.html",
+      "/teaching/resources.html",
       "/teaching/experience.html",
-      "/teaching/resources.html"
+      "/teaching/courses-taught.html"
     ]
   },
   {
@@ -56,12 +64,12 @@
   {
     "listing": "/about.html",
     "items": [
+      "/about/hello.html",
       "/about/connect.html",
-      "/about/interest.html",
-      "/about/skills.html",
-      "/about/education.html",
       "/about/expertise.html",
-      "/about/hello.html"
+      "/about/education.html",
+      "/about/interest.html",
+      "/about/skills.html"
     ]
   },
   {
@@ -72,6 +80,20 @@
       "/talks/food-science.html",
       "/talks/somm-sab.html",
       "/talks/emcr.html"
+    ]
+  },
+  {
+    "listing": "/teaching/experience.html",
+    "items": [
+      "/teaching/experience/adci.html",
+      "/teaching/experience/maths-tutor.html",
+      "/teaching/experience/curtin-bis.html",
+      "/teaching/experience/cic.html",
+      "/teaching/experience/stanley-college.html",
+      "/teaching/experience/RAN.html",
+      "/teaching/experience/cutin-cs.html",
+      "/teaching/experience/tennis-coach.html",
+      "/teaching/experience/martial-arts-instructor.html"
     ]
   }
 ]

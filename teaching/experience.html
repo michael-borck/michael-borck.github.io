@@ -8,7 +8,7 @@
 
 <meta name="description" content="Explore my diverse teaching experiences, from the Australian Navy to leading university courses.">
 
-<title>Michael Borck - Teaching Experience</title>
+<title>Michael Borck - The Unconventional Educator: Navigating Diverse Disciplines from Sports to Systems</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,18 +71,76 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../css/styles.css">
-<meta name="twitter:title" content="Michael Borck - Teaching Experience">
+<meta name="twitter:title" content="Michael Borck - The Unconventional Educator: Navigating Diverse Disciplines from Sports to Systems">
 <meta name="twitter:description" content="Explore my diverse teaching experiences, from the Australian Navy to leading university courses.">
 <meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -162,56 +222,354 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">The Unconventional Educator: Navigating Diverse Disciplines from Sports to Systems</h1>
+                  <div>
+        <div class="description">
+          Explore my diverse teaching experiences, from the Australian Navy to leading university courses.
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Australian Navy</div>
+                <div class="quarto-category">University</div>
+                <div class="quarto-category">Information Systems</div>
+                <div class="quarto-category">Computer Science</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="Category 1">Category 1 <span class="quarto-category-count">(9)</span></div><div class="category" data-category="Category 2">Category 2 <span class="quarto-category-count">(9)</span></div><div class="category" data-category="[object Object]">[object Object] <span class="quarto-category-count">(9)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Teaching Experience</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Australian Navy</div>
-    <div class="quarto-category">University</div>
-    <div class="quarto-category">Information Systems</div>
-    <div class="quarto-category">Computer Science</div>
-  </div>
-  </div>
 
-<div>
-  <div class="description">
-    Explore my diverse teaching experiences, from the Australian Navy to leading university courses.
-  </div>
+
+
+
+<p>Embark on an unconventional journey through diverse educational landscapes. This section traces a teaching career that defies traditional boundaries, spanning from the disciplined ranks of the Australian Navy to the dynamic world of university classrooms. Explore a unique path that has encompassed not only computer science and information systems but also the realms of sports and martial arts. This is a testament to a passion for learning and sharing knowledge across a wide spectrum of human experience.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Category 1,Category 2,[object Object]" data-listing-file-modified-sort="1716070157552" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<a href="../teaching/experience/adci.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../teaching/experience/[Image filename or URL (optional)]" class="thumbnail-image card-img" style="height: 0;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Australian Data Cybersecurity Institute
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Category 1'); return false;">
+Category 1
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('Category 2'); return false;">
+Category 2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('[object Object]'); return false;">
+[object Object]
+</div>
+</div>
+<div class="card-text listing-description">
+[Brief description of your role and experience at the organization]
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Category 1,Category 2,[object Object]" data-listing-file-modified-sort="1716070187300" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<a href="../teaching/experience/maths-tutor.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../teaching/experience/[Image filename or URL (optional)]" class="thumbnail-image card-img" style="height: 0;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Maths Tutor
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Category 1'); return false;">
+Category 1
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Category 2'); return false;">
+Category 2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('[object Object]'); return false;">
+[object Object]
+</div>
+</div>
+<div class="card-text listing-description">
+[Brief description of your role and experience at the organization]
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
-<div class="quarto-title-meta">
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Category 1,Category 2,[object Object]" data-listing-file-modified-sort="1716070169652" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<a href="../teaching/experience/curtin-bis.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../teaching/experience/[Image filename or URL (optional)]" class="thumbnail-image card-img" style="height: 0;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Curtin - Business Information Systems
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Category 1'); return false;">
+Category 1
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Category 2'); return false;">
+Category 2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('[object Object]'); return false;">
+[object Object]
+</div>
+</div>
+<div class="card-text listing-description">
+[Brief description of your role and experience at the organization]
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
-    
-  
-    
-  </div>
-  
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Category 1,Category 2,[object Object]" data-listing-file-modified-sort="1716070164260" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<a href="../teaching/experience/cic.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../teaching/experience/[Image filename or URL (optional)]" class="thumbnail-image card-img" style="height: 0;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Curtin International College
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Category 1'); return false;">
+Category 1
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Category 2'); return false;">
+Category 2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('[object Object]'); return false;">
+[object Object]
+</div>
+</div>
+<div class="card-text listing-description">
+[Brief description of your role and experience at the organization]
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Category 1,Category 2,[object Object]" data-listing-file-modified-sort="1716070207851" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<a href="../teaching/experience/stanley-college.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../teaching/experience/[Image filename or URL (optional)]" class="thumbnail-image card-img" style="height: 0;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Stanley College
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Category 1'); return false;">
+Category 1
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Category 2'); return false;">
+Category 2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('[object Object]'); return false;">
+[object Object]
+</div>
+</div>
+<div class="card-text listing-description">
+[Brief description of your role and experience at the organization]
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
-</header>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Category 1,Category 2,[object Object]" data-listing-file-modified-sort="1716070198732" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<a href="../teaching/experience/RAN.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../teaching/experience/[Image filename or URL (optional)]" class="thumbnail-image card-img" style="height: 0;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Royal Australian Navy
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Category 1'); return false;">
+Category 1
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Category 2'); return false;">
+Category 2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('[object Object]'); return false;">
+[object Object]
+</div>
+</div>
+<div class="card-text listing-description">
+[Brief description of your role and experience at the organization]
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Category 1,Category 2,[object Object]" data-listing-file-modified-sort="1716070175664" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<a href="../teaching/experience/cutin-cs.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../teaching/experience/[Image filename or URL (optional)]" class="thumbnail-image card-img" style="height: 0;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Curtin - Computer Science
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Category 1'); return false;">
+Category 1
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Category 2'); return false;">
+Category 2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('[object Object]'); return false;">
+[object Object]
+</div>
+</div>
+<div class="card-text listing-description">
+[Brief description of your role and experience at the organization]
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
-<ul>
-<li>Business Information Systems, Curtin University</li>
-<li>Computer Science, Curtin University</li>
-<li>Australian Navy Training Command</li>
-<li>West TAFE, Joondalup</li>
-<li>Curtin International College</li>
-<li>Stanley College</li>
-<li>Australian Data Cybersecurity Institute</li>
-</ul>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="Category 1,Category 2,[object Object]" data-listing-file-modified-sort="1716070213739" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<a href="../teaching/experience/tennis-coach.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../teaching/experience/[Image filename or URL (optional)]" class="thumbnail-image card-img" style="height: 0;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tennis Coach
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Category 1'); return false;">
+Category 1
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Category 2'); return false;">
+Category 2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('[object Object]'); return false;">
+[object Object]
+</div>
+</div>
+<div class="card-text listing-description">
+[Brief description of your role and experience at the organization]
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="Category 1,Category 2,[object Object]" data-listing-file-modified-sort="1716070181232" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<a href="../teaching/experience/martial-arts-instructor.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../teaching/experience/[Image filename or URL (optional)]" class="thumbnail-image card-img" style="height: 0;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Martial Arts Instructor
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Category 1'); return false;">
+Category 1
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Category 2'); return false;">
+Category 2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('[object Object]'); return false;">
+[object Object]
+</div>
+</div>
+<div class="card-text listing-description">
+[Brief description of your role and experience at the organization]
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
-
-</main> <!-- /main -->
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

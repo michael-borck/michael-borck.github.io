@@ -4,28 +4,224 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Bridging the Gap Between Theory and Practice: My Research in AI, Education, and Computer Vision.\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\nArtificial Intelligence\n\n\nAI\n\n\nLanguage Models\n\n\nData Analysis\n\n\nMachine Learning\n\n\nAcademic Research\n\n\nConferences\n\n\nTechnical Papers\n\n\nAI Ethics\n\n\nAI Applications\n\n\n\nDive into my research journey through a curated list of my published works.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMastering Large Language Models: A Hands-On Guide to Practical Applications\n\n\n\npython\n\n\neducation\n\n\nllm\n\n\n\nExplore the fundamentals and practical applications of Large Language Models through hands-on examples and interactive learning.\n\n\n\n\n\n\n\n\n\n\nExpanding the Horizons of Large Language Models: A Comparative Study of Fine-Tuning, Retrieval-Augmented Generation, and Hybrid Techniques\n\n\n\npython\n\n\nllm\n\n\nfine-tuning\n\n\nrag\n\n\n\nA comparative study of fine-tuning, retrieval-augmented generation, and their combination for enhancing the capabilities of smaller, quantised large language models.\n\n\n\n\n\n\n\n\n\n\nAssessLLMs for Academic Grading Efficiency\n\n\n\npython\n\n\nllm\n\n\neducation\n\n\n\nUsing LLMs to compare again human graders\n\n\n\n\n\n\n\n\n\n\nRevisiting Prompt Engineering: Strategic Interactions with Large Language Models for Application Development\n\n\n\nprompt\n\n\nllm\n\n\n\nExploring advanced techniques and strategies in prompt engineering to enhance interactions with large language models for robust application development.\n\n\n\n\n\n\n\n\n\n\nOptimising Language Models with Advanced Text Chunking Strategies\n\n\n\nllm\n\n\nchuncking\n\n\nrag\n\n\n\nExploring advanced text chunking techniques like semantic and agentic chunking to optimize large language models for retrieval-augmented generation applications.\n\n\n\n\n\n\n\n\n\n\nUnveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics\n\n\n\nprompts\n\n\nllm\n\n\njailbreak\n\n\n\ninsights and a taxonomy of language model safeguards bypassing techniques within Generative AI (Gen-AI) systems\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Publications\n\n\n\nArtificial Intelligence\n\n\nAI\n\n\nLanguage Models\n\n\nData Analysis\n\n\nMachine Learning\n\n\nAcademic Research\n\n\nConferences\n\n\nTechnical Papers\n\n\nAI Ethics\n\n\nAI Applications\n\n\n\nDive into my research journey through a curated list of my published works.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMastering Large Language Models: A Hands-On Guide to Practical Applications\n\n\n\npython\n\n\neducation\n\n\nllm\n\n\n\nExplore the fundamentals and practical applications of Large Language Models through hands-on examples and interactive learning.\n\n\n\n\n\n\n\n\n\n\nExpanding the Horizons of Large Language Models: A Comparative Study of Fine-Tuning, Retrieval-Augmented Generation, and Hybrid Techniques\n\n\n\npython\n\n\nllm\n\n\nfine-tuning\n\n\nrag\n\n\n\nA comparative study of fine-tuning, retrieval-augmented generation, and their combination for enhancing the capabilities of smaller, quantised large language models.\n\n\n\n\n\n\n\n\n\n\nAssessLLMs for Academic Grading Efficiency\n\n\n\npython\n\n\nllm\n\n\neducation\n\n\n\nUsing LLMs to compare again human graders\n\n\n\n\n\n\n\n\n\n\nRevisiting Prompt Engineering: Strategic Interactions with Large Language Models for Application Development\n\n\n\nprompt\n\n\nllm\n\n\n\nExploring advanced techniques and strategies in prompt engineering to enhance interactions with large language models for robust application development.\n\n\n\n\n\n\n\n\n\n\nOptimising Language Models with Advanced Text Chunking Strategies\n\n\n\nllm\n\n\nchuncking\n\n\nrag\n\n\n\nExploring advanced text chunking techniques like semantic and agentic chunking to optimize large language models for retrieval-augmented generation applications.\n\n\n\n\n\n\n\n\n\n\nUnveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics\n\n\n\nprompts\n\n\nllm\n\n\njailbreak\n\n\n\ninsights and a taxonomy of language model safeguards bypassing techniques within Generative AI (Gen-AI) systems\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/resources.html",
     "href": "teaching/resources.html",
-    "title": "Teaching Resources",
+    "title": "Beyond the Textbook: Insider Knowledge and Strategies for Engaging Learners",
     "section": "",
-    "text": "Navigating the Landscape of System Development\nIntroduction to Information Systems - Lecture Slides"
+    "text": "Step into my world as an educator and explore this curated collection of teaching resources, honed through years of classroom experience and a passion for sparking curiosity. These materials offer a glimpse into what has worked for me in fostering engaging and effective learning environments. From time-tested strategies to innovative approaches, discover practical tips and insider knowledge that you can adapt and apply to your own teaching practice. Whether you’re a seasoned educator or just starting out, I hope these resources inspire you to try new things, connect with your students, and ignite a love of learning in your classroom\nGeneral Teaching Resources:\n\nLecture Slides: Engaging and well-structured slides that summarise key concepts, include visuals, and incorporate interactive elements.\nLesson Plans: Detailed outlines of your lesson objectives, activities, assessments, and materials needed.\nHandouts: Supplementary materials that provide additional information, examples, or practice exercises for students.\nRubrics: Clear and concise assessment tools that outline the expectations for student work and provide a framework for grading.\nActivity Ideas: Creative and engaging activities that promote active learning, collaboration, and critical thinking.\nAssessment Strategies: Innovative ways to assess student learning beyond traditional tests and quizzes, such as projects, presentations, or portfolios.\n\nSubject-Specific Resources:\n\nCase Studies: Real-world examples or scenarios that illustrate key concepts and challenge students to apply their knowledge.\nCoding Examples: Sample code snippets, projects, or tutorials that demonstrate programming techniques and best practices.\nData Sets: Curated collections of data that students can analyze and interpret to gain insights and practice data analysis skills.\nResearch Guides: Resources that help students navigate the research process, find credible sources, and properly cite their work.\nStudy Guides: Comprehensive summaries of key concepts, terms, and formulas, along with practice questions and tips for studying effectively.\n\nAdditional Resources:\n\nReflections on Teaching: Personal essays or blog posts that share your insights, experiences, and lessons learned as an educator.\nBook Recommendations: A curated list of books that have inspired you as a teacher or that you believe would be valuable for other educators.\nLinks to Helpful Websites: A collection of online resources, tools, and platforms that you find helpful for lesson planning, assessment, or professional development.\nTemplates: Reusable templates for lesson plans, rubrics, or other documents that can save time and streamline your workflow."
   },
   {
-    "objectID": "teaching/courses_taught.html",
-    "href": "teaching/courses_taught.html",
-    "title": "Courses Taught",
+    "objectID": "teaching/teaching-philosophy.html",
+    "href": "teaching/teaching-philosophy.html",
+    "title": "Empowering Students, Transforming Lives: A Holistic Approach to Education Rooted in Compassion and Expertise",
     "section": "",
-    "text": "Business School, Information Systems Discipline\n\nIntroduction to Information Systems: An overview of information systems and their role in business operations.\nAdvanced Database Management: In-depth exploration of database design, implementation, and management.\nArtificial Intelligence in Business: Application of AI technologies in solving business problems.\nSystem Development Life Cycle (SDLC): Comprehensive study of various SDLC methodologies and their application in project management."
+    "text": "My teaching philosophy is grounded in three conceptual pillars: Caring, Competence, and Passion. I believe that education should be an inspiring and transformative journey, and I strive to create a dynamic and inclusive classroom environment where students feel encouraged to explore, question, and apply their knowledge."
+  },
+  {
+    "objectID": "teaching/teaching-philosophy.html#examples-of-teaching-practices",
+    "href": "teaching/teaching-philosophy.html#examples-of-teaching-practices",
+    "title": "Empowering Students, Transforming Lives: A Holistic Approach to Education Rooted in Compassion and Expertise",
+    "section": "Examples of Teaching Practices",
+    "text": "Examples of Teaching Practices\n\nCritical First Classes: Setting the tone and expectations from the beginning.\nPrivate Praise: Providing personalized feedback to encourage students.\nFlexible Office Hours: Being available to support students’ varying schedules.\nSkeletal PowerPoints: Using minimal slides to encourage active participation.\nFirst to Arrive, Last to Leave: Demonstrating commitment and availability.\nGuidance on Focus: Teaching students where to look, not just what to see.\nOut-of-Hours Access Near Deadlines: Providing extra support when students need it most."
+  },
+  {
+    "objectID": "teaching/courses/bwmt-isys3004.html",
+    "href": "teaching/courses/bwmt-isys3004.html",
+    "title": "Business Web and Mobile Technologies",
+    "section": "",
+    "text": "[Provide a more detailed description of the course content, learning objectives, and key takeaways.]"
+  },
+  {
+    "objectID": "teaching/courses/bwmt-isys3004.html#course-overview",
+    "href": "teaching/courses/bwmt-isys3004.html#course-overview",
+    "title": "Business Web and Mobile Technologies",
+    "section": "",
+    "text": "[Provide a more detailed description of the course content, learning objectives, and key takeaways.]"
+  },
+  {
+    "objectID": "teaching/courses/bwmt-isys3004.html#topics-covered",
+    "href": "teaching/courses/bwmt-isys3004.html#topics-covered",
+    "title": "Business Web and Mobile Technologies",
+    "section": "Topics Covered",
+    "text": "Topics Covered\n\n[List the main topics covered in the course]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/courses/bwmt-isys3004.html#assessment-methods-optional",
+    "href": "teaching/courses/bwmt-isys3004.html#assessment-methods-optional",
+    "title": "Business Web and Mobile Technologies",
+    "section": "Assessment Methods (Optional)",
+    "text": "Assessment Methods (Optional)\n\n[Describe how students were assessed in the course]\n[Include examples like assignments, projects, exams, etc.]"
+  },
+  {
+    "objectID": "teaching/courses/bwmt-isys3004.html#materials-and-resources-optional",
+    "href": "teaching/courses/bwmt-isys3004.html#materials-and-resources-optional",
+    "title": "Business Web and Mobile Technologies",
+    "section": "Materials and Resources (Optional)",
+    "text": "Materials and Resources (Optional)\n\n[List any textbooks, articles, or other resources used in the course]\n[Include links if available]"
+  },
+  {
+    "objectID": "teaching/courses/bwmt-isys3004.html#personal-reflections-optional",
+    "href": "teaching/courses/bwmt-isys3004.html#personal-reflections-optional",
+    "title": "Business Web and Mobile Technologies",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\n\n[Share any insights, challenges, or lessons learned from teaching this course]\n[Reflect on the impact the course had on your teaching practice or student learning]"
+  },
+  {
+    "objectID": "teaching/courses-taught.html",
+    "href": "teaching/courses-taught.html",
+    "title": "The Educator’s Evolution: A Reflective Showcase of Courses Taught and Lessons Learned",
+    "section": "",
+    "text": "Embark on a journey through the evolution of an educator, as reflected in a diverse portfolio of courses taught and lessons learned along the way. This showcase reveals a passion for knowledge, a commitment to student growth, and a dedication to continuous improvement in teaching practice. Explore a curated collection of courses spanning various disciplines and institutions, each representing a unique chapter in a lifelong dedication to education.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Business Programming\n\n\n\n[Subject Area (e.g., Information Systems, Computer Science)]\n\n\n[Level (e.g., Undergraduate, Postgraduate)]\n\n\n[Optional: Additional relevant tags]\n\n\n\n[Brief overview of the course content and focus]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Web and Mobile Technologies\n\n\n\n[Subject Area (e.g., Information Systems, Computer Science)]\n\n\n[Level (e.g., Undergraduate, Postgraduate)]\n\n\n[Optional: Additional relevant tags]\n\n\n\n[Brief overview of the course content and focus]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Systems Analysis and Design\n\n\n\n[Subject Area (e.g., Information Systems, Computer Science)]\n\n\n[Level (e.g., Undergraduate, Postgraduate)]\n\n\n[Optional: Additional relevant tags]\n\n\n\n[Brief overview of the course content and focus]\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/experience/tennis-coach.html",
+    "href": "teaching/experience/tennis-coach.html",
+    "title": "Tennis Coach",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/tennis-coach.html#role-and-responsibilities",
+    "href": "teaching/experience/tennis-coach.html#role-and-responsibilities",
+    "title": "Tennis Coach",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/tennis-coach.html#key-accomplishments-and-highlights",
+    "href": "teaching/experience/tennis-coach.html#key-accomplishments-and-highlights",
+    "title": "Tennis Coach",
+    "section": "Key Accomplishments and Highlights",
+    "text": "Key Accomplishments and Highlights\n\n[Highlight notable achievements, innovations, or impacts you made]\n[Quantify results whenever possible (e.g., “Increased student engagement by 20%”)]\n[Use bullet points or paragraphs as needed]"
+  },
+  {
+    "objectID": "teaching/experience/tennis-coach.html#courses-taught-optional",
+    "href": "teaching/experience/tennis-coach.html#courses-taught-optional",
+    "title": "Tennis Coach",
+    "section": "Courses Taught (Optional)",
+    "text": "Courses Taught (Optional)\nIf applicable, list the courses you taught at the organization:\n\n[Course Title 1]\n[Course Title 2]\n[Course Title 3]"
+  },
+  {
+    "objectID": "teaching/experience/tennis-coach.html#personal-reflections-optional",
+    "href": "teaching/experience/tennis-coach.html#personal-reflections-optional",
+    "title": "Tennis Coach",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\nShare any personal insights, challenges, or lessons learned from your experience at this organization."
+  },
+  {
+    "objectID": "teaching/experience/RAN.html",
+    "href": "teaching/experience/RAN.html",
+    "title": "Royal Australian Navy",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/RAN.html#role-and-responsibilities",
+    "href": "teaching/experience/RAN.html#role-and-responsibilities",
+    "title": "Royal Australian Navy",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/RAN.html#key-accomplishments-and-highlights",
+    "href": "teaching/experience/RAN.html#key-accomplishments-and-highlights",
+    "title": "Royal Australian Navy",
+    "section": "Key Accomplishments and Highlights",
+    "text": "Key Accomplishments and Highlights\n\n[Highlight notable achievements, innovations, or impacts you made]\n[Quantify results whenever possible (e.g., “Increased student engagement by 20%”)]\n[Use bullet points or paragraphs as needed]"
+  },
+  {
+    "objectID": "teaching/experience/RAN.html#courses-taught-optional",
+    "href": "teaching/experience/RAN.html#courses-taught-optional",
+    "title": "Royal Australian Navy",
+    "section": "Courses Taught (Optional)",
+    "text": "Courses Taught (Optional)\nIf applicable, list the courses you taught at the organization:\n\n[Course Title 1]\n[Course Title 2]\n[Course Title 3]"
+  },
+  {
+    "objectID": "teaching/experience/RAN.html#personal-reflections-optional",
+    "href": "teaching/experience/RAN.html#personal-reflections-optional",
+    "title": "Royal Australian Navy",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\nShare any personal insights, challenges, or lessons learned from your experience at this organization."
+  },
+  {
+    "objectID": "teaching/experience/cic.html",
+    "href": "teaching/experience/cic.html",
+    "title": "Curtin International College",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/cic.html#role-and-responsibilities",
+    "href": "teaching/experience/cic.html#role-and-responsibilities",
+    "title": "Curtin International College",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/cic.html#key-accomplishments-and-highlights",
+    "href": "teaching/experience/cic.html#key-accomplishments-and-highlights",
+    "title": "Curtin International College",
+    "section": "Key Accomplishments and Highlights",
+    "text": "Key Accomplishments and Highlights\n\n[Highlight notable achievements, innovations, or impacts you made]\n[Quantify results whenever possible (e.g., “Increased student engagement by 20%”)]\n[Use bullet points or paragraphs as needed]"
+  },
+  {
+    "objectID": "teaching/experience/cic.html#courses-taught-optional",
+    "href": "teaching/experience/cic.html#courses-taught-optional",
+    "title": "Curtin International College",
+    "section": "Courses Taught (Optional)",
+    "text": "Courses Taught (Optional)\nIf applicable, list the courses you taught at the organization:\n\n[Course Title 1]\n[Course Title 2]\n[Course Title 3]"
+  },
+  {
+    "objectID": "teaching/experience/cic.html#personal-reflections-optional",
+    "href": "teaching/experience/cic.html#personal-reflections-optional",
+    "title": "Curtin International College",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\nShare any personal insights, challenges, or lessons learned from your experience at this organization."
+  },
+  {
+    "objectID": "teaching/experience/maths-tutor.html",
+    "href": "teaching/experience/maths-tutor.html",
+    "title": "Maths Tutor",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/maths-tutor.html#role-and-responsibilities",
+    "href": "teaching/experience/maths-tutor.html#role-and-responsibilities",
+    "title": "Maths Tutor",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/maths-tutor.html#key-accomplishments-and-highlights",
+    "href": "teaching/experience/maths-tutor.html#key-accomplishments-and-highlights",
+    "title": "Maths Tutor",
+    "section": "Key Accomplishments and Highlights",
+    "text": "Key Accomplishments and Highlights\n\n[Highlight notable achievements, innovations, or impacts you made]\n[Quantify results whenever possible (e.g., “Increased student engagement by 20%”)]\n[Use bullet points or paragraphs as needed]"
+  },
+  {
+    "objectID": "teaching/experience/maths-tutor.html#courses-taught-optional",
+    "href": "teaching/experience/maths-tutor.html#courses-taught-optional",
+    "title": "Maths Tutor",
+    "section": "Courses Taught (Optional)",
+    "text": "Courses Taught (Optional)\nIf applicable, list the courses you taught at the organization:\n\n[Course Title 1]\n[Course Title 2]\n[Course Title 3]"
+  },
+  {
+    "objectID": "teaching/experience/maths-tutor.html#personal-reflections-optional",
+    "href": "teaching/experience/maths-tutor.html#personal-reflections-optional",
+    "title": "Maths Tutor",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\nShare any personal insights, challenges, or lessons learned from your experience at this organization."
   },
   {
     "objectID": "musings.html",
     "href": "musings.html",
     "title": "Musings",
     "section": "",
-    "text": "Beyond the Binary: Thoughts That Challenge, Inspire, and Entertain\n\n\n\n\n\n\n\n\n\n\n\n\nMusings Title 1\n\n\nBrief project description.\n\n\n\n\n\n\nMay 17, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Musings Title 1\n\n\nBrief project description.\n\n\n\n\n\n\nMay 17, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/trueroll.html",
@@ -74,7 +270,7 @@
     "href": "about/connect.html",
     "title": "Let’s Connect",
     "section": "",
-    "text": "Feel free to explore my site and connect with me on social media!\n\nGitHub\nLinkedin - Personal\nLinkedin - BARG\nYouTube\nTwitter/X\nFacebook\nInstagram\nCurtin Profile\nGoogle Scholar\nResearchGate\nAbout Me\nIEEE\nORCID\nEmail - Work\nOthers"
+    "text": "Feel free to explore my site and connect with me on social media!\n\nGitHub\nLinkedin - Personal\nLinkedin - BARG\nYouTube\nTwitter/X\nDiscord\nFacebook\nInstagram\nCurtin Profile\nGoogle Scholar\nResearchGate\nAbout Me\nIEEE\nORCID\nEmail - Work\nOthers"
   },
   {
     "objectID": "passions/building-dreams-layer-by-layer.html",
@@ -137,28 +333,28 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Igniting a passion for technology and innovation in the next generation\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Philosophy\n\n\n\nCaring\n\n\nCompetence\n\n\nPassion\n\n\nEducation\n\n\n\nDiscover the core principles that guide my approach to inspiring and transforming the educational journey.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCourses Taught\n\n\n\nInformation Systems\n\n\nDatabase Management\n\n\nAI\n\n\nSDLC\n\n\n\nTake a look at the variety of courses I’ve taught, designed to bridge the gap between theory and practice.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Experience\n\n\n\nAustralian Navy\n\n\nUniversity\n\n\nInformation Systems\n\n\nComputer Science\n\n\n\nExplore my diverse teaching experiences, from the Australian Navy to leading university courses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Resources\n\n\n\nLecture Slides\n\n\nDevelopment\n\n\nInformation Systems\n\n\n\nAccess a collection of valuable teaching materials and resources I’ve created to enhance the learning experience.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Empowering Students, Transforming Lives: A Holistic Approach to Education Rooted in Compassion and Expertise\n\n\n\nCaring\n\n\nCompetence\n\n\nPassion\n\n\nEducation\n\n\n\nDiscover the core principles that guide my approach to inspiring and transforming the educational journey.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeyond the Textbook: Insider Knowledge and Strategies for Engaging Learners\n\n\n\nLecture Slides\n\n\nDevelopment\n\n\nInformation Systems\n\n\n\nDiscover a collection of teaching resources honed through years of classroom experience and a passion for sparking curiosity.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Unconventional Educator: Navigating Diverse Disciplines from Sports to Systems\n\n\n\nAustralian Navy\n\n\nUniversity\n\n\nInformation Systems\n\n\nComputer Science\n\n\n\nExplore my diverse teaching experiences, from the Australian Navy to leading university courses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Educator’s Evolution: A Reflective Showcase of Courses Taught and Lessons Learned\n\n\n\nInformation Systems\n\n\nDatabase Management\n\n\nAI\n\n\nSDLC\n\n\n\nTake a look at the variety of courses I’ve taught, designed to bridge the gap between theory and practice.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "passions.html",
     "href": "passions.html",
     "title": "Passions",
     "section": "",
-    "text": "From Pixels to Planets: My Explorations in Art, Science, and Play\n\n\n\n\n\n\n\n\n\n\n\n\nThrough My Lens: A Backyard Odyssey from Macro to Macrocosm\n\n\n\nphotography\n\n\nmacro\n\n\nastrophotography\n\n\nbackyard\n\n\nnature\n\n\n\nExploring the extremes of scale in my own backyard, from the intricate details of insects to the vast expanse of the night sky.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRetro Gaming: Where Pixels and Nostalgia Collide\n\n\n\nretro gaming\n\n\natari 2600\n\n\nnostalgia\n\n\ngaming\n\n\n\nReliving the golden age of gaming, one cartridge at a time.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTennis: My Love for the Game, Set, and Match\n\n\n\ntennis\n\n\nsports\n\n\nhobby\n\n\nfitness\n\n\n\nFrom the court to the couch, tennis is a lifelong passion that keeps me active and engaged.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuitar: Rediscovering the Joy of Strumming\n\n\n\nguitar\n\n\nmusic\n\n\nhobby\n\n\nbeginner\n\n\nlearning\n\n\n\nPicking up where I left off, rekindling my childhood love for the guitar, one (sometimes clumsy) chord at a time.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRugby: A Lifelong Passion for the Beautiful Game\n\n\n\nrugby\n\n\nsports\n\n\nteamwork\n\n\npassion\n\n\n\nFrom scrum to try line, rugby has taught me valuable lessons about teamwork, resilience, and the joy of competition.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAstrophotography: My Backyard Universe\n\n\n\nastronomy\n\n\nphotography\n\n\nhobby\n\n\n\nCapturing the wonders of the night sky from my backyard.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3D Printing: Creating Worlds in My Workshop\n\n\n\n3d printing\n\n\nmaker\n\n\ntechnology\n\n\nhobby\n\n\n\nFrom functional tools to artistic masterpieces, exploring the endless possibilities of 3D printing.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMartial Arts: My Journey of Discipline and Self-Discovery\n\n\n\nmartial arts\n\n\ndiscipline\n\n\nself-improvement\n\n\nhealth\n\n\n\nFrom the dojo to the everyday, martial arts have shaped my life in profound ways.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Through My Lens: A Backyard Odyssey from Macro to Macrocosm\n\n\n\nphotography\n\n\nmacro\n\n\nastrophotography\n\n\nbackyard\n\n\nnature\n\n\n\nExploring the extremes of scale in my own backyard, from the intricate details of insects to the vast expanse of the night sky.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRetro Gaming: Where Pixels and Nostalgia Collide\n\n\n\nretro gaming\n\n\natari 2600\n\n\nnostalgia\n\n\ngaming\n\n\n\nReliving the golden age of gaming, one cartridge at a time.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTennis: My Love for the Game, Set, and Match\n\n\n\ntennis\n\n\nsports\n\n\nhobby\n\n\nfitness\n\n\n\nFrom the court to the couch, tennis is a lifelong passion that keeps me active and engaged.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuitar: Rediscovering the Joy of Strumming\n\n\n\nguitar\n\n\nmusic\n\n\nhobby\n\n\nbeginner\n\n\nlearning\n\n\n\nPicking up where I left off, rekindling my childhood love for the guitar, one (sometimes clumsy) chord at a time.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRugby: A Lifelong Passion for the Beautiful Game\n\n\n\nrugby\n\n\nsports\n\n\nteamwork\n\n\npassion\n\n\n\nFrom scrum to try line, rugby has taught me valuable lessons about teamwork, resilience, and the joy of competition.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAstrophotography: My Backyard Universe\n\n\n\nastronomy\n\n\nphotography\n\n\nhobby\n\n\n\nCapturing the wonders of the night sky from my backyard.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3D Printing: Creating Worlds in My Workshop\n\n\n\n3d printing\n\n\nmaker\n\n\ntechnology\n\n\nhobby\n\n\n\nFrom functional tools to artistic masterpieces, exploring the endless possibilities of 3D printing.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMartial Arts: My Journey of Discipline and Self-Discovery\n\n\n\nmartial arts\n\n\ndiscipline\n\n\nself-improvement\n\n\nhealth\n\n\n\nFrom the dojo to the everyday, martial arts have shaped my life in profound ways.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Michael Borck",
     "section": "",
-    "text": "Research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMusings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPassions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTalks & Presentations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Research\n\n\nBridging the Gap Between Theory and Practice: My Research in AI, Education, and Computer Vision.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching\n\n\nIgniting a passion for technology and innovation in the next generation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjects\n\n\nFrom Classroom to Playground: My Software Experiments and Explorations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMusings\n\n\nBeyond the Binary: Thoughts That Challenge, Inspire, and Entertain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPassions\n\n\nFrom Pixels to Planets: My Explorations in Art, Science, and Play\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTalks & Presentations\n\n\nIgnite ideas and spark conversations: Explore my curated collection of talks and presentations.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "From Classroom to Playground: My Software Experiments and Explorations\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring SimNexus: A Business Simulation Toolkit\n\n\n\npython\n\n\neducation\n\n\nsimulation\n\n\nbusiness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCloudCore: A fictional company’s website, serving as an educational platform\n\n\n\nwebsite\n\n\neducation\n\n\nsecurity\n\n\nbusiness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolySim: Configure, Play, Transform - Enter a Universe of Your Making\n\n\n\npython\n\n\nflet\n\n\nsimulation\n\n\ngame\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrueRoll: model games, analyse player performance, and explore ten-pin bowling\n\n\n\npython\n\n\nten-pin bowling\n\n\nsimulation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "SimNexus: A Business Simulation Toolkit\n\n\n\npython\n\n\neducation\n\n\nsimulation\n\n\nbusiness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCloudCore: A fictional company’s website, serving as an educational platform\n\n\n\nwebsite\n\n\neducation\n\n\nsecurity\n\n\nbusiness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolySim: Configure, Play, Transform - Enter a Universe of Your Making\n\n\n\npython\n\n\nflet\n\n\nsimulation\n\n\ngame\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrueRoll: model games, analyse player performance, and explore ten-pin bowling\n\n\n\npython\n\n\nten-pin bowling\n\n\nsimulation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "passions/pixel-power.html",
@@ -242,12 +438,12 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Resume (One Page PDF)\nCV (Detailed 10 Page PDF)\n\n\n\n\n\n\n\n\n\n\n\n\n\nLet’s Connect\n\n\n\nConnect\n\n\nSocial Media\n\n\nContact\n\n\n\nConnect with me on social media and explore my site.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPassions\n\n\n\nPassions\n\n\nHobbies\n\n\nAstrophotography\n\n\n3D Printing\n\n\nMartial Arts\n\n\nRetro Gaming\n\n\n\nExplore my eclectic and fulfilling personal passions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills\n\n\n\nSkills\n\n\nProgramming\n\n\nWeb Development\n\n\nTechnical Proficiency\n\n\n\nA summary of my technical skills and proficiencies.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEducation\n\n\n\nEducation\n\n\nQualifications\n\n\nComputer Vision\n\n\nBusiness\n\n\nMathematics\n\n\n\nMy educational background and qualifications.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExpertise\n\n\n\nExpertise\n\n\nTeaching\n\n\nProjects\n\n\nResearch\n\n\nAI\n\n\nEducation\n\n\nComputer Vision\n\n\n\nExplore my professional expertise and areas of work.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi!\n\n\n\nMichael Borck\n\n\nEducator\n\n\nResearcher\n\n\nPersonal Journey\n\n\n\nGet to know the man behind the code, the camera, and the guitar.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Resume (One Page PDF)\nCV (Detailed 10 Page PDF)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi!\n\n\n\nMichael Borck\n\n\nEducator\n\n\nResearcher\n\n\nPersonal Journey\n\n\n\nGet to know the man behind the code, the camera, and the guitar.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLet’s Connect\n\n\n\nConnect\n\n\nSocial Media\n\n\nContact\n\n\n\nConnect with me on social media and explore my site.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExpertise\n\n\n\nExpertise\n\n\nTeaching\n\n\nProjects\n\n\nResearch\n\n\nAI\n\n\nEducation\n\n\nComputer Vision\n\n\n\nExplore my professional expertise and areas of work.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEducation\n\n\n\nEducation\n\n\nQualifications\n\n\nComputer Vision\n\n\nBusiness\n\n\nMathematics\n\n\n\nMy educational background and qualifications.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPassions\n\n\n\nPassions\n\n\nHobbies\n\n\nAstrophotography\n\n\n3D Printing\n\n\nMartial Arts\n\n\nRetro Gaming\n\n\n\nExplore my eclectic and fulfilling personal passions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills\n\n\n\nSkills\n\n\nProgramming\n\n\nWeb Development\n\n\nTechnical Proficiency\n\n\n\nA summary of my technical skills and proficiencies.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/simnexus.html",
     "href": "projects/simnexus.html",
-    "title": "Exploring SimNexus: A Business Simulation Toolkit",
+    "title": "SimNexus: A Business Simulation Toolkit",
     "section": "",
     "text": "SimNexus, one of my key projects that showcases my expertise in developing software for use in education, business and economics. As the creator and maintainer of SimNexus, have designed this tool to help users explore and understand the dynamics of product popularity, stock market behaviour, and resource price fluctuations. SimNexus offers a hands-on experience that brings theoretical concepts to life through practical application.\nSimNexus is perfect for students, educators, and analysts looking to analyze how marketing strategies, economic trends, and supply disruptions affect market behaviors. My comprehensive documentation and user-friendly tutorials make it easy to get started. By creating and maintaining SimNexus, I aim to provide valuable insights into the forces driving market dynamics and enhance decision-making in the complex world of economics. Check out the links to GitHub, PyPI, and the detailed API documentation for more information on how to use this powerful framework.\nFor detailed documentation, please visit the project documentation site.\nYou can find the source code and additional details on the GitHub repository.\nThe project is also available on PyPI. You can install it using pip:\npip simnexus"
   },
@@ -263,28 +459,273 @@
     "href": "talks-presentations.html",
     "title": "Talks & Presentations",
     "section": "",
-    "text": "Bridging the Gap Between Theory and Practice: My Research in AI, Education, and Computer Vision.\n\n\n\n\n\n\n\n\n\n\n\n\nAI in the Curriculum\n\n\n\nArtificial Intelligence\n\n\nAI Integration\n\n\nUniversity Curriculum\n\n\nAI Education\n\n\nAI in Industry\n\n\nEthical AI\n\n\nFaculty of Business and Law\n\n\nCurtin University\n\n\n\nArtificial Intelligence (AI) involves developing computer systems to perform tasks requiring human intelligence, such as visual perception and language translation. AI is…\n\n\n\n\n\n\nMar 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness AI Research Group (BARG)\n\n\n\nArtificial Intelligence\n\n\nBusiness AI\n\n\nLanguage Models\n\n\nEthical AI\n\n\nInterdisciplinary Research\n\n\nAI Applications\n\n\nData Governance\n\n\nCurtin University\n\n\nFuture of Work\n\n\n\nThe Business AI Research Group (BARG) presentation provides an overview of the group’s mission to drive innovation through AI research, industry collaborations, and…\n\n\n\n\n\n\nOct 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytics for Everyone\n\n\n\nArtificial Intelligence\n\n\nLarge Language Models\n\n\nData Analytics\n\n\nAI Integration\n\n\nEthical AI\n\n\nStrategic Thinking\n\n\nAI Tools\n\n\nTechnical Proficiency\n\n\nCurtin University\n\n\n\nThis presentation discusses the transformative potential of AI, particularly large language models (LLMs), in enhancing data analysis by automating routine tasks, improving…\n\n\n\n\n\n\nAug 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSoMM School Advisory Board\n\n\n\nChatGPT\n\n\nAI in Education\n\n\nPersonalized Learning\n\n\nInteractive Education\n\n\nTutoring\n\n\nFeedback\n\n\nInclusive Learning\n\n\nCurtin University\n\n\n\nChatGPT is a powerful tool for interactive and personalized education. It assists in tutoring, explaining complex concepts, providing feedback, and offering practice…\n\n\n\n\n\n\nAug 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nEMCR Keynote\n\n\n\nGenerative AI\n\n\nAI Research\n\n\nAI Ethics\n\n\nAcademic Research\n\n\nAI Applications\n\n\nCurtin University\n\n\n\nThe keynote will provide a comprehensive overview of the remarkable potential of Generative AI and its transformative influence in the realm of academic research delving…\n\n\n\n\n\n\nJul 20, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "AI in the Curriculum\n\n\n\nArtificial Intelligence\n\n\nAI Integration\n\n\nUniversity Curriculum\n\n\nAI Education\n\n\nAI in Industry\n\n\nEthical AI\n\n\nFaculty of Business and Law\n\n\nCurtin University\n\n\n\nArtificial Intelligence (AI) involves developing computer systems to perform tasks requiring human intelligence, such as visual perception and language translation. AI is…\n\n\n\n\n\n\nMar 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness AI Research Group (BARG)\n\n\n\nArtificial Intelligence\n\n\nBusiness AI\n\n\nLanguage Models\n\n\nEthical AI\n\n\nInterdisciplinary Research\n\n\nAI Applications\n\n\nData Governance\n\n\nCurtin University\n\n\nFuture of Work\n\n\n\nThe Business AI Research Group (BARG) presentation provides an overview of the group’s mission to drive innovation through AI research, industry collaborations, and…\n\n\n\n\n\n\nOct 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytics for Everyone\n\n\n\nArtificial Intelligence\n\n\nLarge Language Models\n\n\nData Analytics\n\n\nAI Integration\n\n\nEthical AI\n\n\nStrategic Thinking\n\n\nAI Tools\n\n\nTechnical Proficiency\n\n\nCurtin University\n\n\n\nThis presentation discusses the transformative potential of AI, particularly large language models (LLMs), in enhancing data analysis by automating routine tasks, improving…\n\n\n\n\n\n\nAug 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSoMM School Advisory Board\n\n\n\nChatGPT\n\n\nAI in Education\n\n\nPersonalized Learning\n\n\nInteractive Education\n\n\nTutoring\n\n\nFeedback\n\n\nInclusive Learning\n\n\nCurtin University\n\n\n\nChatGPT is a powerful tool for interactive and personalized education. It assists in tutoring, explaining complex concepts, providing feedback, and offering practice…\n\n\n\n\n\n\nAug 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nEMCR Keynote\n\n\n\nGenerative AI\n\n\nAI Research\n\n\nAI Ethics\n\n\nAcademic Research\n\n\nAI Applications\n\n\nCurtin University\n\n\n\nThe keynote will provide a comprehensive overview of the remarkable potential of Generative AI and its transformative influence in the realm of academic research delving…\n\n\n\n\n\n\nJul 20, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "teaching/teaching-philosphy.html",
-    "href": "teaching/teaching-philosphy.html",
-    "title": "Teaching Philosophy",
+    "objectID": "teaching/experience/adci.html",
+    "href": "teaching/experience/adci.html",
+    "title": "Australian Data Cybersecurity Institute",
     "section": "",
-    "text": "My teaching philosophy is grounded in three conceptual pillars: Caring, Competence, and Passion. I believe that education should be an inspiring and transformative journey, and I strive to create a dynamic and inclusive classroom environment where students feel encouraged to explore, question, and apply their knowledge."
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
   },
   {
-    "objectID": "teaching/teaching-philosphy.html#examples-of-teaching-practices",
-    "href": "teaching/teaching-philosphy.html#examples-of-teaching-practices",
-    "title": "Teaching Philosophy",
-    "section": "Examples of Teaching Practices",
-    "text": "Examples of Teaching Practices\n\nCritical First Classes: Setting the tone and expectations from the beginning.\nPrivate Praise: Providing personalized feedback to encourage students.\nFlexible Office Hours: Being available to support students’ varying schedules.\nSkeletal PowerPoints: Using minimal slides to encourage active participation.\nFirst to Arrive, Last to Leave: Demonstrating commitment and availability.\nGuidance on Focus: Teaching students where to look, not just what to see.\nOut-of-Hours Access Near Deadlines: Providing extra support when students need it most."
+    "objectID": "teaching/experience/adci.html#role-and-responsibilities",
+    "href": "teaching/experience/adci.html#role-and-responsibilities",
+    "title": "Australian Data Cybersecurity Institute",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/adci.html#key-accomplishments-and-highlights",
+    "href": "teaching/experience/adci.html#key-accomplishments-and-highlights",
+    "title": "Australian Data Cybersecurity Institute",
+    "section": "Key Accomplishments and Highlights",
+    "text": "Key Accomplishments and Highlights\n\n[Highlight notable achievements, innovations, or impacts you made]\n[Quantify results whenever possible (e.g., “Increased student engagement by 20%”)]\n[Use bullet points or paragraphs as needed]"
+  },
+  {
+    "objectID": "teaching/experience/adci.html#courses-taught-optional",
+    "href": "teaching/experience/adci.html#courses-taught-optional",
+    "title": "Australian Data Cybersecurity Institute",
+    "section": "Courses Taught (Optional)",
+    "text": "Courses Taught (Optional)\nIf applicable, list the courses you taught at the organization:\n\n[Course Title 1]\n[Course Title 2]\n[Course Title 3]"
+  },
+  {
+    "objectID": "teaching/experience/adci.html#personal-reflections-optional",
+    "href": "teaching/experience/adci.html#personal-reflections-optional",
+    "title": "Australian Data Cybersecurity Institute",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\nShare any personal insights, challenges, or lessons learned from your experience at this organization."
+  },
+  {
+    "objectID": "teaching/experience/curtin-bis.html",
+    "href": "teaching/experience/curtin-bis.html",
+    "title": "Curtin - Business Information Systems",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/curtin-bis.html#role-and-responsibilities",
+    "href": "teaching/experience/curtin-bis.html#role-and-responsibilities",
+    "title": "Curtin - Business Information Systems",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/curtin-bis.html#key-accomplishments-and-highlights",
+    "href": "teaching/experience/curtin-bis.html#key-accomplishments-and-highlights",
+    "title": "Curtin - Business Information Systems",
+    "section": "Key Accomplishments and Highlights",
+    "text": "Key Accomplishments and Highlights\n\n[Highlight notable achievements, innovations, or impacts you made]\n[Quantify results whenever possible (e.g., “Increased student engagement by 20%”)]\n[Use bullet points or paragraphs as needed]"
+  },
+  {
+    "objectID": "teaching/experience/curtin-bis.html#courses-taught-optional",
+    "href": "teaching/experience/curtin-bis.html#courses-taught-optional",
+    "title": "Curtin - Business Information Systems",
+    "section": "Courses Taught (Optional)",
+    "text": "Courses Taught (Optional)\nIf applicable, list the courses you taught at the organization:\n\n[Course Title 1]\n[Course Title 2]\n[Course Title 3]"
+  },
+  {
+    "objectID": "teaching/experience/curtin-bis.html#personal-reflections-optional",
+    "href": "teaching/experience/curtin-bis.html#personal-reflections-optional",
+    "title": "Curtin - Business Information Systems",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\nShare any personal insights, challenges, or lessons learned from your experience at this organization."
+  },
+  {
+    "objectID": "teaching/experience/stanley-college.html",
+    "href": "teaching/experience/stanley-college.html",
+    "title": "Stanley College",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/stanley-college.html#role-and-responsibilities",
+    "href": "teaching/experience/stanley-college.html#role-and-responsibilities",
+    "title": "Stanley College",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/stanley-college.html#key-accomplishments-and-highlights",
+    "href": "teaching/experience/stanley-college.html#key-accomplishments-and-highlights",
+    "title": "Stanley College",
+    "section": "Key Accomplishments and Highlights",
+    "text": "Key Accomplishments and Highlights\n\n[Highlight notable achievements, innovations, or impacts you made]\n[Quantify results whenever possible (e.g., “Increased student engagement by 20%”)]\n[Use bullet points or paragraphs as needed]"
+  },
+  {
+    "objectID": "teaching/experience/stanley-college.html#courses-taught-optional",
+    "href": "teaching/experience/stanley-college.html#courses-taught-optional",
+    "title": "Stanley College",
+    "section": "Courses Taught (Optional)",
+    "text": "Courses Taught (Optional)\nIf applicable, list the courses you taught at the organization:\n\n[Course Title 1]\n[Course Title 2]\n[Course Title 3]"
+  },
+  {
+    "objectID": "teaching/experience/stanley-college.html#personal-reflections-optional",
+    "href": "teaching/experience/stanley-college.html#personal-reflections-optional",
+    "title": "Stanley College",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\nShare any personal insights, challenges, or lessons learned from your experience at this organization."
+  },
+  {
+    "objectID": "teaching/experience/cutin-cs.html",
+    "href": "teaching/experience/cutin-cs.html",
+    "title": "Curtin - Computer Science",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/cutin-cs.html#role-and-responsibilities",
+    "href": "teaching/experience/cutin-cs.html#role-and-responsibilities",
+    "title": "Curtin - Computer Science",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/cutin-cs.html#key-accomplishments-and-highlights",
+    "href": "teaching/experience/cutin-cs.html#key-accomplishments-and-highlights",
+    "title": "Curtin - Computer Science",
+    "section": "Key Accomplishments and Highlights",
+    "text": "Key Accomplishments and Highlights\n\n[Highlight notable achievements, innovations, or impacts you made]\n[Quantify results whenever possible (e.g., “Increased student engagement by 20%”)]\n[Use bullet points or paragraphs as needed]"
+  },
+  {
+    "objectID": "teaching/experience/cutin-cs.html#courses-taught-optional",
+    "href": "teaching/experience/cutin-cs.html#courses-taught-optional",
+    "title": "Curtin - Computer Science",
+    "section": "Courses Taught (Optional)",
+    "text": "Courses Taught (Optional)\nIf applicable, list the courses you taught at the organization:\n\n[Course Title 1]\n[Course Title 2]\n[Course Title 3]"
+  },
+  {
+    "objectID": "teaching/experience/cutin-cs.html#personal-reflections-optional",
+    "href": "teaching/experience/cutin-cs.html#personal-reflections-optional",
+    "title": "Curtin - Computer Science",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\nShare any personal insights, challenges, or lessons learned from your experience at this organization."
+  },
+  {
+    "objectID": "teaching/experience/martial-arts-instructor.html",
+    "href": "teaching/experience/martial-arts-instructor.html",
+    "title": "Martial Arts Instructor",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/martial-arts-instructor.html#role-and-responsibilities",
+    "href": "teaching/experience/martial-arts-instructor.html#role-and-responsibilities",
+    "title": "Martial Arts Instructor",
+    "section": "",
+    "text": "Position/Title: [Your formal title or role]\nDates: [Start Date] - [End Date]\nKey Responsibilities:\n\n[List your main duties and tasks]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/experience/martial-arts-instructor.html#key-accomplishments-and-highlights",
+    "href": "teaching/experience/martial-arts-instructor.html#key-accomplishments-and-highlights",
+    "title": "Martial Arts Instructor",
+    "section": "Key Accomplishments and Highlights",
+    "text": "Key Accomplishments and Highlights\n\n[Highlight notable achievements, innovations, or impacts you made]\n[Quantify results whenever possible (e.g., “Increased student engagement by 20%”)]\n[Use bullet points or paragraphs as needed]"
+  },
+  {
+    "objectID": "teaching/experience/martial-arts-instructor.html#courses-taught-optional",
+    "href": "teaching/experience/martial-arts-instructor.html#courses-taught-optional",
+    "title": "Martial Arts Instructor",
+    "section": "Courses Taught (Optional)",
+    "text": "Courses Taught (Optional)\nIf applicable, list the courses you taught at the organization:\n\n[Course Title 1]\n[Course Title 2]\n[Course Title 3]"
+  },
+  {
+    "objectID": "teaching/experience/martial-arts-instructor.html#personal-reflections-optional",
+    "href": "teaching/experience/martial-arts-instructor.html#personal-reflections-optional",
+    "title": "Martial Arts Instructor",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\nShare any personal insights, challenges, or lessons learned from your experience at this organization."
+  },
+  {
+    "objectID": "teaching/courses/itbp-isys2001.html",
+    "href": "teaching/courses/itbp-isys2001.html",
+    "title": "Introduction to Business Programming",
+    "section": "",
+    "text": "[Provide a more detailed description of the course content, learning objectives, and key takeaways.]"
+  },
+  {
+    "objectID": "teaching/courses/itbp-isys2001.html#course-overview",
+    "href": "teaching/courses/itbp-isys2001.html#course-overview",
+    "title": "Introduction to Business Programming",
+    "section": "",
+    "text": "[Provide a more detailed description of the course content, learning objectives, and key takeaways.]"
+  },
+  {
+    "objectID": "teaching/courses/itbp-isys2001.html#topics-covered",
+    "href": "teaching/courses/itbp-isys2001.html#topics-covered",
+    "title": "Introduction to Business Programming",
+    "section": "Topics Covered",
+    "text": "Topics Covered\n\n[List the main topics covered in the course]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/courses/itbp-isys2001.html#assessment-methods-optional",
+    "href": "teaching/courses/itbp-isys2001.html#assessment-methods-optional",
+    "title": "Introduction to Business Programming",
+    "section": "Assessment Methods (Optional)",
+    "text": "Assessment Methods (Optional)\n\n[Describe how students were assessed in the course]\n[Include examples like assignments, projects, exams, etc.]"
+  },
+  {
+    "objectID": "teaching/courses/itbp-isys2001.html#materials-and-resources-optional",
+    "href": "teaching/courses/itbp-isys2001.html#materials-and-resources-optional",
+    "title": "Introduction to Business Programming",
+    "section": "Materials and Resources (Optional)",
+    "text": "Materials and Resources (Optional)\n\n[List any textbooks, articles, or other resources used in the course]\n[Include links if available]"
+  },
+  {
+    "objectID": "teaching/courses/itbp-isys2001.html#personal-reflections-optional",
+    "href": "teaching/courses/itbp-isys2001.html#personal-reflections-optional",
+    "title": "Introduction to Business Programming",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\n\n[Share any insights, challenges, or lessons learned from teaching this course]\n[Reflect on the impact the course had on your teaching practice or student learning]"
+  },
+  {
+    "objectID": "teaching/courses/isad-isys2002.html",
+    "href": "teaching/courses/isad-isys2002.html",
+    "title": "Introduction to Systems Analysis and Design",
+    "section": "",
+    "text": "[Provide a more detailed description of the course content, learning objectives, and key takeaways.]"
+  },
+  {
+    "objectID": "teaching/courses/isad-isys2002.html#course-overview",
+    "href": "teaching/courses/isad-isys2002.html#course-overview",
+    "title": "Introduction to Systems Analysis and Design",
+    "section": "",
+    "text": "[Provide a more detailed description of the course content, learning objectives, and key takeaways.]"
+  },
+  {
+    "objectID": "teaching/courses/isad-isys2002.html#topics-covered",
+    "href": "teaching/courses/isad-isys2002.html#topics-covered",
+    "title": "Introduction to Systems Analysis and Design",
+    "section": "Topics Covered",
+    "text": "Topics Covered\n\n[List the main topics covered in the course]\n[Use bullet points for clarity]"
+  },
+  {
+    "objectID": "teaching/courses/isad-isys2002.html#assessment-methods-optional",
+    "href": "teaching/courses/isad-isys2002.html#assessment-methods-optional",
+    "title": "Introduction to Systems Analysis and Design",
+    "section": "Assessment Methods (Optional)",
+    "text": "Assessment Methods (Optional)\n\n[Describe how students were assessed in the course]\n[Include examples like assignments, projects, exams, etc.]"
+  },
+  {
+    "objectID": "teaching/courses/isad-isys2002.html#materials-and-resources-optional",
+    "href": "teaching/courses/isad-isys2002.html#materials-and-resources-optional",
+    "title": "Introduction to Systems Analysis and Design",
+    "section": "Materials and Resources (Optional)",
+    "text": "Materials and Resources (Optional)\n\n[List any textbooks, articles, or other resources used in the course]\n[Include links if available]"
+  },
+  {
+    "objectID": "teaching/courses/isad-isys2002.html#personal-reflections-optional",
+    "href": "teaching/courses/isad-isys2002.html#personal-reflections-optional",
+    "title": "Introduction to Systems Analysis and Design",
+    "section": "Personal Reflections (Optional)",
+    "text": "Personal Reflections (Optional)\n\n[Share any insights, challenges, or lessons learned from teaching this course]\n[Reflect on the impact the course had on your teaching practice or student learning]"
   },
   {
     "objectID": "teaching/experience.html",
     "href": "teaching/experience.html",
-    "title": "Teaching Experience",
+    "title": "The Unconventional Educator: Navigating Diverse Disciplines from Sports to Systems",
     "section": "",
-    "text": "Business Information Systems, Curtin University\nComputer Science, Curtin University\nAustralian Navy Training Command\nWest TAFE, Joondalup\nCurtin International College\nStanley College\nAustralian Data Cybersecurity Institute"
+    "text": "Embark on an unconventional journey through diverse educational landscapes. This section traces a teaching career that defies traditional boundaries, spanning from the disciplined ranks of the Australian Navy to the dynamic world of university classrooms. Explore a unique path that has encompassed not only computer science and information systems but also the realms of sports and martial arts. This is a testament to a passion for learning and sharing knowledge across a wide spectrum of human experience.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAustralian Data Cybersecurity Institute\n\n\n\nCategory 1\n\n\nCategory 2\n\n\n[object Object]\n\n\n\n[Brief description of your role and experience at the organization]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaths Tutor\n\n\n\nCategory 1\n\n\nCategory 2\n\n\n[object Object]\n\n\n\n[Brief description of your role and experience at the organization]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurtin - Business Information Systems\n\n\n\nCategory 1\n\n\nCategory 2\n\n\n[object Object]\n\n\n\n[Brief description of your role and experience at the organization]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurtin International College\n\n\n\nCategory 1\n\n\nCategory 2\n\n\n[object Object]\n\n\n\n[Brief description of your role and experience at the organization]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStanley College\n\n\n\nCategory 1\n\n\nCategory 2\n\n\n[object Object]\n\n\n\n[Brief description of your role and experience at the organization]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRoyal Australian Navy\n\n\n\nCategory 1\n\n\nCategory 2\n\n\n[object Object]\n\n\n\n[Brief description of your role and experience at the organization]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurtin - Computer Science\n\n\n\nCategory 1\n\n\nCategory 2\n\n\n[object Object]\n\n\n\n[Brief description of your role and experience at the organization]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTennis Coach\n\n\n\nCategory 1\n\n\nCategory 2\n\n\n[object Object]\n\n\n\n[Brief description of your role and experience at the organization]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMartial Arts Instructor\n\n\n\nCategory 1\n\n\nCategory 2\n\n\n[object Object]\n\n\n\n[Brief description of your role and experience at the organization]\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/publications.html",

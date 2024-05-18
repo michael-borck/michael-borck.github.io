@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://michaelborck.au/research.html</loc>
-    <lastmod>2024-05-18T09:28:44.421Z</lastmod>
+    <lastmod>2024-05-18T22:22:15.878Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/teaching/resources.html</loc>
-    <lastmod>2024-05-18T07:44:01.306Z</lastmod>
+    <lastmod>2024-05-18T23:49:20.553Z</lastmod>
   </url>
   <url>
-    <loc>https://michaelborck.au/teaching/courses_taught.html</loc>
-    <lastmod>2024-05-18T07:43:23.458Z</lastmod>
+    <loc>https://michaelborck.au/teaching/teaching-philosophy.html</loc>
+    <lastmod>2024-05-18T23:36:03.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/courses/bwmt-isys3004.html</loc>
+    <lastmod>2024-05-18T22:36:03.044Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/courses-taught.html</loc>
+    <lastmod>2024-05-18T23:32:43.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/experience/tennis-coach.html</loc>
+    <lastmod>2024-05-18T22:10:13.739Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/experience/RAN.html</loc>
+    <lastmod>2024-05-18T22:09:58.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/experience/cic.html</loc>
+    <lastmod>2024-05-18T22:09:24.260Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/experience/maths-tutor.html</loc>
+    <lastmod>2024-05-18T22:09:47.300Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/musings.html</loc>
-    <lastmod>2024-05-18T00:22:14.343Z</lastmod>
+    <lastmod>2024-05-18T22:23:54.565Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/projects/trueroll.html</loc>
@@ -50,7 +74,7 @@
   </url>
   <url>
     <loc>https://michaelborck.au/about/connect.html</loc>
-    <lastmod>2024-05-18T11:44:09.346Z</lastmod>
+    <lastmod>2024-05-18T15:38:53.980Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/passions/building-dreams-layer-by-layer.html</loc>
@@ -70,11 +94,11 @@
   </url>
   <url>
     <loc>https://michaelborck.au/teaching.html</loc>
-    <lastmod>2024-05-18T00:22:49.507Z</lastmod>
+    <lastmod>2024-05-18T23:31:22.847Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/passions.html</loc>
-    <lastmod>2024-05-18T08:15:34.548Z</lastmod>
+    <lastmod>2024-05-18T22:23:38.481Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/index.html</loc>
@@ -82,7 +106,7 @@
   </url>
   <url>
     <loc>https://michaelborck.au/projects.html</loc>
-    <lastmod>2024-05-18T02:19:49.198Z</lastmod>
+    <lastmod>2024-05-18T22:23:19.213Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/passions/pixel-power.html</loc>
@@ -110,7 +134,7 @@
   </url>
   <url>
     <loc>https://michaelborck.au/about/hello.html</loc>
-    <lastmod>2024-05-18T08:01:59.242Z</lastmod>
+    <lastmod>2024-05-18T22:58:15.210Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/talks/somm-sab.html</loc>
@@ -122,11 +146,11 @@
   </url>
   <url>
     <loc>https://michaelborck.au/about.html</loc>
-    <lastmod>2024-05-18T11:50:14.350Z</lastmod>
+    <lastmod>2024-05-18T23:05:23.531Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/projects/simnexus.html</loc>
-    <lastmod>2024-05-18T00:44:45.197Z</lastmod>
+    <lastmod>2024-05-18T23:38:20.203Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/projects/polysim.html</loc>
@@ -134,15 +158,39 @@
   </url>
   <url>
     <loc>https://michaelborck.au/talks-presentations.html</loc>
-    <lastmod>2024-05-18T09:28:29.889Z</lastmod>
+    <lastmod>2024-05-18T22:44:04.672Z</lastmod>
   </url>
   <url>
-    <loc>https://michaelborck.au/teaching/teaching-philosphy.html</loc>
-    <lastmod>2024-05-18T07:41:51.995Z</lastmod>
+    <loc>https://michaelborck.au/teaching/experience/adci.html</loc>
+    <lastmod>2024-05-18T22:09:17.552Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/experience/curtin-bis.html</loc>
+    <lastmod>2024-05-18T22:09:29.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/experience/stanley-college.html</loc>
+    <lastmod>2024-05-18T22:10:07.851Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/experience/cutin-cs.html</loc>
+    <lastmod>2024-05-18T22:09:35.664Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/experience/martial-arts-instructor.html</loc>
+    <lastmod>2024-05-18T22:09:41.232Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/courses/itbp-isys2001.html</loc>
+    <lastmod>2024-05-18T22:36:08.396Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/courses/isad-isys2002.html</loc>
+    <lastmod>2024-05-18T22:36:48.264Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/teaching/experience.html</loc>
-    <lastmod>2024-05-18T07:42:40.679Z</lastmod>
+    <lastmod>2024-05-18T23:32:38.638Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/research/publications.html</loc>
