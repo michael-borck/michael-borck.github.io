@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -130,7 +130,7 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="css/styles.css">
 <meta name="twitter:title" content="Michael Borck - Projects">
 <meta name="twitter:description" content="A personal website showcasing my projects, interests, and professional portfolio.">
 <meta name="twitter:card" content="summary">
@@ -174,8 +174,43 @@ window.Quarto = {
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./talks-presentations.html"> 
+<span class="menu-text">Talks &amp; Presentations</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./passions.html"> 
+<span class="menu-text">Passions</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./musings.html"> 
 <span class="menu-text">Musings</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/michael-borck"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-twitter" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-facebook" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-youtube" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -206,7 +241,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="business">business <span class="quarto-category-count">(2)</span></div><div class="category" data-category="education">education <span class="quarto-category-count">(2)</span></div><div class="category" data-category="flet">flet <span class="quarto-category-count">(1)</span></div><div class="category" data-category="game">game <span class="quarto-category-count">(1)</span></div><div class="category" data-category="python">python <span class="quarto-category-count">(3)</span></div><div class="category" data-category="security">security <span class="quarto-category-count">(1)</span></div><div class="category" data-category="simulation">simulation <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ten-pin bowling">ten-pin bowling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="website">website <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -214,30 +249,141 @@ window.Quarto = {
 
 
 
-<p>Explore my latest projects and experiments.</p>
+<p>From Classroom to Playground: My Software Experiments and Explorations</p>
+<script src="scripts/script.js" defer=""></script>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1715875200000" data-listing-file-modified-sort="1715950266343" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
-<a href="./projects/projects-1.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="python,education,simulation,business" data-listing-file-modified-sort="1715993085197" data-listing-reading-time-sort="1" data-listing-word-count-sort="177">
+<a href="./projects/simnexus.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Project Title 1
+Exploring SimNexus: A Business Simulation Toolkit
 </h5>
-<div class="card-text listing-description">
-Brief project description.
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
 </div>
-<div class="card-attribution card-text-small justify">
+<div class="listing-category" onclick="window.quartoListingCategory('education'); return false;">
+education
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('simulation'); return false;">
+simulation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('business'); return false;">
+business
+</div>
+</div>
+<div class="card-text listing-description">
+SimNexus, one of my key projects that showcases my expertise in developing software for use in education, business and economics. As the creator and maintainer of SimNexus…
+</div>
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
 
 </div>
-<div class="listing-date">
-May 17, 2024
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="website,education,security,business" data-listing-file-modified-sort="1715993076609" data-listing-reading-time-sort="1" data-listing-word-count-sort="43">
+<a href="./projects/cloudcore.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+CloudCore: A fictional company’s website, serving as an educational platform
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('education'); return false;">
+education
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('security'); return false;">
+security
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('business'); return false;">
+business
+</div>
+</div>
+<div class="card-text listing-description">
+CloudCore Networks Educational Platform is built to offer a hands-on learning environment for students and professionals to explore and master the fields of cybersecurity…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="python,flet,simulation,game" data-listing-file-modified-sort="1715993080761" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
+<a href="./projects/polysim.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+PolySim: Configure, Play, Transform - Enter a Universe of Your Making
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('flet'); return false;">
+flet
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('simulation'); return false;">
+simulation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('game'); return false;">
+game
+</div>
+</div>
+<div class="card-text listing-description">
+PolySim is a versatile simulation game built using the Flet framework, which allows you to write your application in Python and deploy it seamlessly across the web, Android…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="python,ten-pin bowling,simulation" data-listing-file-modified-sort="1715993090113" data-listing-reading-time-sort="1" data-listing-word-count-sort="74">
+<a href="./projects/trueroll.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+TrueRoll: model games, analyse player performance, and explore ten-pin bowling
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ten-pin bowling'); return false;">
+ten-pin bowling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('simulation'); return false;">
+simulation
+</div>
+</div>
+<div class="card-text listing-description">
+TrueRoll is an simulation toolkit designed for modelling ten-pin bowling games. It offers a comprehensive suite of classes that simulate games, tournaments, leagues, and…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
 </div>
 </div>
 </div>
@@ -843,7 +989,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </ul>
     </div>
     <div class="nav-footer-right">
-      &nbsp;
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./path/to/resume.pdf">
+<p>Resume (One Page PDF)</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="./path/to/cv.pdf">
+<p>CV (Detailed 10 Page PDF)</p>
+</a>
+  </li>  
+</ul>
     </div>
   </div>
 </footer>

@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="A brief introduction to my background, interests, and passions.">
+<meta name="description" content="Get to know the man behind the code, the camera, and the guitar.">
 
-<title>Michael Borck - About Me</title>
+<title>Michael Borck - About</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,15 +71,73 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="Michael Borck - About Me">
-<meta name="twitter:description" content="A brief introduction to my background, interests, and passions.">
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="css/styles.css">
+<meta name="twitter:title" content="Michael Borck - About">
+<meta name="twitter:description" content="Get to know the man behind the code, the camera, and the guitar.">
 <meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -115,8 +175,43 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./talks-presentations.html"> 
+<span class="menu-text">Talks &amp; Presentations</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./passions.html"> 
+<span class="menu-text">Passions</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./musings.html"> 
 <span class="menu-text">Musings</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/michael-borck"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-twitter" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-facebook" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-youtube" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -130,18 +225,19 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="3D Printing">3D Printing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="AI">AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Astrophotography">Astrophotography <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Business">Business <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Computer Vision">Computer Vision <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Connect">Connect <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Contact">Contact <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Education">Education <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Educator">Educator <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Expertise">Expertise <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Hobbies">Hobbies <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Martial Arts">Martial Arts <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mathematics">Mathematics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Michael Borck">Michael Borck <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Passions">Passions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Personal Journey">Personal Journey <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Programming">Programming <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Projects">Projects <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Qualifications">Qualifications <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Research">Research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Researcher">Researcher <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Retro Gaming">Retro Gaming <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Skills">Skills <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Social Media">Social Media <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Teaching">Teaching <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Technical Proficiency">Technical Proficiency <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Web Development">Web Development <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About Me</h1>
+<h1 class="title">About</h1>
 </div>
 
 <div>
   <div class="description">
-    A brief introduction to my background, interests, and passions.
+    Get to know the man behind the code, the camera, and the guitar.
   </div>
 </div>
 
@@ -158,11 +254,240 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>(Your about me content here)</p>
+<ul>
+<li><a href="./path/to/resume.pdf">Resume (One Page PDF)</a></li>
+<li><a href="./path/to/cv.pdf">CV (Detailed 10 Page PDF)</a></li>
+</ul>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Connect,Social Media,Contact" data-listing-file-modified-sort="1716022741546" data-listing-reading-time-sort="1" data-listing-word-count-sort="37">
+<a href="./about/connect.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Let’s Connect
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Connect'); return false;">
+Connect
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Social Media'); return false;">
+Social Media
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Contact'); return false;">
+Contact
+</div>
+</div>
+<div class="card-text listing-description">
+Connect with me on social media and explore my site.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Passions,Hobbies,Astrophotography,3D Printing,Martial Arts,Retro Gaming" data-listing-file-modified-sort="1716020052068" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
+<a href="./about/interest.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Passions
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Passions'); return false;">
+Passions
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Hobbies'); return false;">
+Hobbies
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Astrophotography'); return false;">
+Astrophotography
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('3D Printing'); return false;">
+3D Printing
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Martial Arts'); return false;">
+Martial Arts
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Retro Gaming'); return false;">
+Retro Gaming
+</div>
+</div>
+<div class="card-text listing-description">
+Explore my eclectic and fulfilling personal passions.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Skills,Programming,Web Development,Technical Proficiency" data-listing-file-modified-sort="1716019148215" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<a href="./about/skills.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Skills
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Skills'); return false;">
+Skills
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Programming'); return false;">
+Programming
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Web Development'); return false;">
+Web Development
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Technical Proficiency'); return false;">
+Technical Proficiency
+</div>
+</div>
+<div class="card-text listing-description">
+A summary of my technical skills and proficiencies.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Education,Qualifications,Computer Vision,Business,Mathematics" data-listing-file-modified-sort="1716019142995" data-listing-reading-time-sort="1" data-listing-word-count-sort="47">
+<a href="./about/education.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Education
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Education'); return false;">
+Education
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Qualifications'); return false;">
+Qualifications
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Computer Vision'); return false;">
+Computer Vision
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Business'); return false;">
+Business
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Mathematics'); return false;">
+Mathematics
+</div>
+</div>
+<div class="card-text listing-description">
+My educational background and qualifications.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Expertise,Teaching,Projects,Research,AI,Education,Computer Vision" data-listing-file-modified-sort="1716019156815" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
+<a href="./about/expertise.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Expertise
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Expertise'); return false;">
+Expertise
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Teaching'); return false;">
+Teaching
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Projects'); return false;">
+Projects
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
+Research
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('AI'); return false;">
+AI
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Education'); return false;">
+Education
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Computer Vision'); return false;">
+Computer Vision
+</div>
+</div>
+<div class="card-text listing-description">
+Explore my professional expertise and areas of work.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Michael Borck,Educator,Researcher,Personal Journey" data-listing-file-modified-sort="1716019319242" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
+<a href="./about/hello.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hi!
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Michael Borck'); return false;">
+Michael Borck
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Educator'); return false;">
+Educator
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Researcher'); return false;">
+Researcher
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Personal Journey'); return false;">
+Personal Journey
+</div>
+</div>
+<div class="card-text listing-description">
+Get to know the man behind the code, the camera, and the guitar.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -757,7 +1082,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </ul>
     </div>
     <div class="nav-footer-right">
-      &nbsp;
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./path/to/resume.pdf">
+<p>Resume (One Page PDF)</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="./path/to/cv.pdf">
+<p>CV (Detailed 10 Page PDF)</p>
+</a>
+  </li>  
+</ul>
     </div>
   </div>
 </footer>

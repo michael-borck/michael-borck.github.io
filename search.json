@@ -4,28 +4,42 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Explore my latest projects and experiments.\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Title 2\n\n\nBrief project description.\n\n\n\n\n\n\nMay 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Title 1\n\n\nBrief project description.\n\n\n\n\n\n\nMay 17, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Bridging the Gap Between Theory and Practice: My Research in AI, Education, and Computer Vision.\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\nArtificial Intelligence\n\n\nAI\n\n\nLanguage Models\n\n\nData Analysis\n\n\nMachine Learning\n\n\nAcademic Research\n\n\nConferences\n\n\nTechnical Papers\n\n\nAI Ethics\n\n\nAI Applications\n\n\n\nDive into my research journey through a curated list of my published works.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMastering Large Language Models: A Hands-On Guide to Practical Applications\n\n\n\npython\n\n\neducation\n\n\nllm\n\n\n\nExplore the fundamentals and practical applications of Large Language Models through hands-on examples and interactive learning.\n\n\n\n\n\n\n\n\n\n\nExpanding the Horizons of Large Language Models: A Comparative Study of Fine-Tuning, Retrieval-Augmented Generation, and Hybrid Techniques\n\n\n\npython\n\n\nllm\n\n\nfine-tuning\n\n\nrag\n\n\n\nA comparative study of fine-tuning, retrieval-augmented generation, and their combination for enhancing the capabilities of smaller, quantised large language models.\n\n\n\n\n\n\n\n\n\n\nAssessLLMs for Academic Grading Efficiency\n\n\n\npython\n\n\nllm\n\n\neducation\n\n\n\nUsing LLMs to compare again human graders\n\n\n\n\n\n\n\n\n\n\nRevisiting Prompt Engineering: Strategic Interactions with Large Language Models for Application Development\n\n\n\nprompt\n\n\nllm\n\n\n\nExploring advanced techniques and strategies in prompt engineering to enhance interactions with large language models for robust application development.\n\n\n\n\n\n\n\n\n\n\nOptimising Language Models with Advanced Text Chunking Strategies\n\n\n\nllm\n\n\nchuncking\n\n\nrag\n\n\n\nExploring advanced text chunking techniques like semantic and agentic chunking to optimize large language models for retrieval-augmented generation applications.\n\n\n\n\n\n\n\n\n\n\nUnveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics\n\n\n\nprompts\n\n\nllm\n\n\njailbreak\n\n\n\ninsights and a taxonomy of language model safeguards bypassing techniques within Generative AI (Gen-AI) systems\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/research-2.html",
-    "href": "research/research-2.html",
-    "title": "Research Title 2",
+    "objectID": "teaching/resources.html",
+    "href": "teaching/resources.html",
+    "title": "Teaching Resources",
     "section": "",
-    "text": "(Project details, images, code snippets, etc.)"
+    "text": "Navigating the Landscape of System Development\nIntroduction to Information Systems - Lecture Slides"
   },
   {
-    "objectID": "research/research-2.html#project-title",
-    "href": "research/research-2.html#project-title",
-    "title": "Research Title 2",
+    "objectID": "teaching/courses_taught.html",
+    "href": "teaching/courses_taught.html",
+    "title": "Courses Taught",
     "section": "",
-    "text": "(Project details, images, code snippets, etc.)"
+    "text": "Business School, Information Systems Discipline\n\nIntroduction to Information Systems: An overview of information systems and their role in business operations.\nAdvanced Database Management: In-depth exploration of database design, implementation, and management.\nArtificial Intelligence in Business: Application of AI technologies in solving business problems.\nSystem Development Life Cycle (SDLC): Comprehensive study of various SDLC methodologies and their application in project management."
   },
   {
     "objectID": "musings.html",
     "href": "musings.html",
     "title": "Musings",
     "section": "",
-    "text": "Read my thoughts and musings on various topics.\n\n\n\n\n\n\n\n\n\n\n\n\nMusings Title 1\n\n\nBrief project description.\n\n\n\n\n\n\nMay 17, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Beyond the Binary: Thoughts That Challenge, Inspire, and Entertain\n\n\n\n\n\n\n\n\n\n\n\n\nMusings Title 1\n\n\nBrief project description.\n\n\n\n\n\n\nMay 17, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/trueroll.html",
+    "href": "projects/trueroll.html",
+    "title": "TrueRoll: model games, analyse player performance, and explore ten-pin bowling",
+    "section": "",
+    "text": "TrueRoll is an simulation toolkit designed for modelling ten-pin bowling games. It offers a comprehensive suite of classes that simulate games, tournaments, leagues, and more, providing a realistic and detailed representation of bowling dynamics. The project also includes a scoring system compatible with various bowling rules, a database for persisting game results, and an environment setup using poetry for easy package management.\nYou can find the source code and additional details on the GitHub repository."
+  },
+  {
+    "objectID": "projects/cloudcore.html",
+    "href": "projects/cloudcore.html",
+    "title": "CloudCore: A fictional company’s website, serving as an educational platform",
+    "section": "",
+    "text": "CloudCore Networks Educational Platform is built to offer a hands-on learning environment for students and professionals to explore and master the fields of cybersecurity, cutting-edge web design techniques, and systems analysis.\nYou can find the source code and additional details on the GitHub repository."
   },
   {
     "objectID": "musings/musings-1.html",
@@ -42,94 +56,262 @@
     "text": "(Project details, images, code snippets, etc.)"
   },
   {
-    "objectID": "interests.html",
-    "href": "interests.html",
-    "title": "Interests",
+    "objectID": "about/expertise.html",
+    "href": "about/expertise.html",
+    "title": "Expertise",
     "section": "",
-    "text": "Discover some of my hobbies and passions.\n\n\n\n\n\n\n\n\n\n\n\n\nInterests Title 1\n\n\nBrief project description.\n\n\n\n\n\n\nMay 17, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Explore my work in these areas:\n\nTeaching: Learn about my courses, teaching philosophy, and innovative approaches.\nProjects: Discover my open-source projects, creative endeavours, and 3D printing experiments.\nResearch: Dive into my academic research on AI, education, and computer vision."
+  },
+  {
+    "objectID": "about/skills.html",
+    "href": "about/skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Programming Languages: Python, Python Notebooks, Javascript, C/C++, Java, C#, PHP\nWeb Development: HTML, CSS, JavaScript\nOther: SQL, Bash, LaTeX, Quarto, Markdown"
+  },
+  {
+    "objectID": "about/connect.html",
+    "href": "about/connect.html",
+    "title": "Let’s Connect",
+    "section": "",
+    "text": "Feel free to explore my site and connect with me on social media!\n\nGitHub\nLinkedin - Personal\nLinkedin - BARG\nYouTube\nTwitter/X\nFacebook\nInstagram\nCurtin Profile\nGoogle Scholar\nResearchGate\nAbout Me\nIEEE\nORCID\nEmail - Work\nOthers"
+  },
+  {
+    "objectID": "passions/building-dreams-layer-by-layer.html",
+    "href": "passions/building-dreams-layer-by-layer.html",
+    "title": "3D Printing: Creating Worlds in My Workshop",
+    "section": "",
+    "text": "3D printing has revolutionised the way we create and manufacture objects, and I’ve been captivated by its potential since I first encountered it. It’s a technology that empowers individuals to bring their ideas to life, whether they’re designing functional tools, artistic sculptures, or even custom toys and figurines.\nWhy I Love 3D Printing\n\nLimitless Creativity: The only limit is your imagination! 3D printing allows me to design and produce objects that would be impossible to make with traditional manufacturing methods.\nProblem Solving: When I encounter a problem in my everyday life or in my hobbies, I often turn to 3D printing to create a custom solution. It’s incredibly satisfying to design and print a tool or part that perfectly fits a specific need.\nLearning and Experimentation: 3D printing is a constant journey of learning and experimentation. I enjoy tinkering with different filaments, settings, and designs, always striving to improve my skills and create more intricate and impressive prints.\nCommunity: The 3D printing community is vibrant and supportive. It’s a great place to find inspiration, share ideas, and troubleshoot problems.\n\nMy 3D Printing Setup\n\nPrinter: [Mention the make and model of your 3D printer]\nFilaments: [List the types of filaments you use, such as PLA, ABS, PETG, etc.]\nSoftware: [Mention the software you use for designing and slicing, e.g., Fusion 360, Cura, PrusaSlicer]\n\nMy 3D Printing Projects\n\nFunctional Prints: [Describe some of the practical things you’ve printed, like tools, replacement parts, organizers, etc.]\nArtistic Creations: [Showcase any sculptures, models, or artistic pieces you’ve designed and printed.]\nBuddha Buddies: [Give a special mention to your Buddha Buddies project, perhaps linking to a separate page or product listing.]\n\nTips for 3D Printing Beginners\n\nStart Simple: Begin with easy-to-print models to get familiar with your printer and the process.\nLearn the Basics: Invest time in understanding the fundamental concepts of 3D printing, such as slicer settings, filament properties, and printer calibration.\nJoin the Community: There are countless online forums, groups, and resources dedicated to 3D printing. Connect with others to learn, share, and troubleshoot.\nDon’t Be Afraid to Experiment: 3D printing is all about trial and error. Have fun, explore different materials and techniques, and see what you can create!"
+  },
+  {
+    "objectID": "passions/building-dreams-layer-by-layer.html#d-printing-creating-worlds-in-my-workshop",
+    "href": "passions/building-dreams-layer-by-layer.html#d-printing-creating-worlds-in-my-workshop",
+    "title": "3D Printing: Creating Worlds in My Workshop",
+    "section": "",
+    "text": "3D printing has revolutionised the way we create and manufacture objects, and I’ve been captivated by its potential since I first encountered it. It’s a technology that empowers individuals to bring their ideas to life, whether they’re designing functional tools, artistic sculptures, or even custom toys and figurines.\nWhy I Love 3D Printing\n\nLimitless Creativity: The only limit is your imagination! 3D printing allows me to design and produce objects that would be impossible to make with traditional manufacturing methods.\nProblem Solving: When I encounter a problem in my everyday life or in my hobbies, I often turn to 3D printing to create a custom solution. It’s incredibly satisfying to design and print a tool or part that perfectly fits a specific need.\nLearning and Experimentation: 3D printing is a constant journey of learning and experimentation. I enjoy tinkering with different filaments, settings, and designs, always striving to improve my skills and create more intricate and impressive prints.\nCommunity: The 3D printing community is vibrant and supportive. It’s a great place to find inspiration, share ideas, and troubleshoot problems.\n\nMy 3D Printing Setup\n\nPrinter: [Mention the make and model of your 3D printer]\nFilaments: [List the types of filaments you use, such as PLA, ABS, PETG, etc.]\nSoftware: [Mention the software you use for designing and slicing, e.g., Fusion 360, Cura, PrusaSlicer]\n\nMy 3D Printing Projects\n\nFunctional Prints: [Describe some of the practical things you’ve printed, like tools, replacement parts, organizers, etc.]\nArtistic Creations: [Showcase any sculptures, models, or artistic pieces you’ve designed and printed.]\nBuddha Buddies: [Give a special mention to your Buddha Buddies project, perhaps linking to a separate page or product listing.]\n\nTips for 3D Printing Beginners\n\nStart Simple: Begin with easy-to-print models to get familiar with your printer and the process.\nLearn the Basics: Invest time in understanding the fundamental concepts of 3D printing, such as slicer settings, filament properties, and printer calibration.\nJoin the Community: There are countless online forums, groups, and resources dedicated to 3D printing. Connect with others to learn, share, and troubleshoot.\nDon’t Be Afraid to Experiment: 3D printing is all about trial and error. Have fun, explore different materials and techniques, and see what you can create!"
+  },
+  {
+    "objectID": "passions/beyond-the-ruck.html",
+    "href": "passions/beyond-the-ruck.html",
+    "title": "Rugby: A Lifelong Passion for the Beautiful Game",
+    "section": "",
+    "text": "Although my playing days are behind me, rugby remains a sport that I deeply admire and follow with unwavering passion. It’s a game that demands physicality, skill, and unwavering teamwork, a combination that creates a spectacle unlike any other on the sporting field.\nWhat I Love About Rugby\n\nThe Physicality: Rugby is a sport that doesn’t shy away from contact. The collisions, the scrums, the tackles – it’s a raw and visceral display of athleticism that I find incredibly exciting.\nThe Skill: While rugby is known for its physicality, it’s also a game of immense skill. The passing, kicking, running lines, and tactical awareness required to succeed make it a fascinating sport to watch and analyze.\nThe Teamwork: Rugby is the ultimate team sport. Every player has a crucial role to play, and success depends on everyone working together seamlessly. The camaraderie and trust among teammates is something truly special.\nThe Spirit: Rugby is a sport with a rich history and a strong code of ethics. The values of respect, sportsmanship, and fair play are deeply ingrained in the culture of the game, making it a truly beautiful spectacle.\nThe Global Community: Rugby is played and loved around the world, bringing together people from all walks of life. It’s a sport that transcends borders and unites fans with a shared passion.\n\nMy Rugby Journey\n\nPlaying Days: [Briefly describe your rugby experience, the positions you played, and any memorable moments or achievements.]\nFavorite Teams and Players: [Mention any teams or players that you particularly admire and why.]\n\nRugby Beyond the Field\nRugby has taught me valuable life lessons that extend far beyond the pitch. The importance of teamwork, the resilience to overcome adversity, and the thrill of competing in a high-stakes environment have all shaped who I am today.\nEven though I no longer play, rugby remains a lifelong passion that continues to inspire and entertain me."
+  },
+  {
+    "objectID": "passions/beyond-the-ruck.html#rugby-a-lifelong-passion-for-the-beautiful-game",
+    "href": "passions/beyond-the-ruck.html#rugby-a-lifelong-passion-for-the-beautiful-game",
+    "title": "Rugby: A Lifelong Passion for the Beautiful Game",
+    "section": "",
+    "text": "Although my playing days are behind me, rugby remains a sport that I deeply admire and follow with unwavering passion. It’s a game that demands physicality, skill, and unwavering teamwork, a combination that creates a spectacle unlike any other on the sporting field.\nWhat I Love About Rugby\n\nThe Physicality: Rugby is a sport that doesn’t shy away from contact. The collisions, the scrums, the tackles – it’s a raw and visceral display of athleticism that I find incredibly exciting.\nThe Skill: While rugby is known for its physicality, it’s also a game of immense skill. The passing, kicking, running lines, and tactical awareness required to succeed make it a fascinating sport to watch and analyze.\nThe Teamwork: Rugby is the ultimate team sport. Every player has a crucial role to play, and success depends on everyone working together seamlessly. The camaraderie and trust among teammates is something truly special.\nThe Spirit: Rugby is a sport with a rich history and a strong code of ethics. The values of respect, sportsmanship, and fair play are deeply ingrained in the culture of the game, making it a truly beautiful spectacle.\nThe Global Community: Rugby is played and loved around the world, bringing together people from all walks of life. It’s a sport that transcends borders and unites fans with a shared passion.\n\nMy Rugby Journey\n\nPlaying Days: [Briefly describe your rugby experience, the positions you played, and any memorable moments or achievements.]\nFavorite Teams and Players: [Mention any teams or players that you particularly admire and why.]\n\nRugby Beyond the Field\nRugby has taught me valuable life lessons that extend far beyond the pitch. The importance of teamwork, the resilience to overcome adversity, and the thrill of competing in a high-stakes environment have all shaped who I am today.\nEven though I no longer play, rugby remains a lifelong passion that continues to inspire and entertain me."
+  },
+  {
+    "objectID": "passions/love-all-serve-all.html",
+    "href": "passions/love-all-serve-all.html",
+    "title": "Tennis: My Love for the Game, Set, and Match",
+    "section": "",
+    "text": "Tennis has been a constant in my life since childhood. I remember picking up my first racket and feeling an instant connection to the sport. The thrill of the competition, the strategy involved in each shot, and the physical exertion all combine to create an exhilarating experience.\nWhat I Love About Tennis\n\nThe Challenge: Tennis is a sport that constantly challenges me to improve. Whether it’s mastering a new stroke, developing my footwork, or strategizing against different opponents, there’s always something new to learn and conquer.\nThe Physicality: Tennis is an incredibly demanding sport that requires agility, speed, strength, and endurance. It’s a fantastic way to stay active and healthy, pushing my body to its limits while having fun.\nThe Mental Game: Tennis is as much a mental game as it is a physical one. It requires focus, concentration, and the ability to stay calm under pressure. It’s a constant battle of wits, trying to outsmart and outmaneuver your opponent.\nThe Social Aspect: Tennis is a great way to connect with others who share the same passion for the sport. Whether it’s playing doubles with friends, participating in a league, or simply chatting with fellow tennis enthusiasts, the social aspect of tennis adds another layer of enjoyment.\n\nMy Tennis Journey\n\nExperience: [Briefly describe your experience level, whether you’re a casual player, a competitive league player, or something in between.]\nFavorite Players: [Mention any professional tennis players who inspire you or whose style of play you admire.]\n\nMemorable Moments on the Court\n\n[Share some of your favorite tennis memories, whether it’s a thrilling match, a personal achievement, or a funny anecdote.]\n\nTennis and My Life\nTennis has taught me valuable lessons that I apply in other areas of my life. The importance of perseverance, the ability to stay focused under pressure, and the thrill of competition have all helped me in my professional and personal endeavors.\nTennis is more than just a sport for me; it’s a passion that brings joy, challenge, and camaraderie to my life."
+  },
+  {
+    "objectID": "passions/love-all-serve-all.html#tennis-my-love-for-the-game-set-and-match",
+    "href": "passions/love-all-serve-all.html#tennis-my-love-for-the-game-set-and-match",
+    "title": "Tennis: My Love for the Game, Set, and Match",
+    "section": "",
+    "text": "Tennis has been a constant in my life since childhood. I remember picking up my first racket and feeling an instant connection to the sport. The thrill of the competition, the strategy involved in each shot, and the physical exertion all combine to create an exhilarating experience.\nWhat I Love About Tennis\n\nThe Challenge: Tennis is a sport that constantly challenges me to improve. Whether it’s mastering a new stroke, developing my footwork, or strategizing against different opponents, there’s always something new to learn and conquer.\nThe Physicality: Tennis is an incredibly demanding sport that requires agility, speed, strength, and endurance. It’s a fantastic way to stay active and healthy, pushing my body to its limits while having fun.\nThe Mental Game: Tennis is as much a mental game as it is a physical one. It requires focus, concentration, and the ability to stay calm under pressure. It’s a constant battle of wits, trying to outsmart and outmaneuver your opponent.\nThe Social Aspect: Tennis is a great way to connect with others who share the same passion for the sport. Whether it’s playing doubles with friends, participating in a league, or simply chatting with fellow tennis enthusiasts, the social aspect of tennis adds another layer of enjoyment.\n\nMy Tennis Journey\n\nExperience: [Briefly describe your experience level, whether you’re a casual player, a competitive league player, or something in between.]\nFavorite Players: [Mention any professional tennis players who inspire you or whose style of play you admire.]\n\nMemorable Moments on the Court\n\n[Share some of your favorite tennis memories, whether it’s a thrilling match, a personal achievement, or a funny anecdote.]\n\nTennis and My Life\nTennis has taught me valuable lessons that I apply in other areas of my life. The importance of perseverance, the ability to stay focused under pressure, and the thrill of competition have all helped me in my professional and personal endeavors.\nTennis is more than just a sport for me; it’s a passion that brings joy, challenge, and camaraderie to my life."
+  },
+  {
+    "objectID": "passions/small-wonders-big-backyard.html",
+    "href": "passions/small-wonders-big-backyard.html",
+    "title": "Through My Lens: A Backyard Odyssey from Macro to Macrocosm",
+    "section": "",
+    "text": "My backyard is a universe of its own. It’s a place where I can lose myself in the intricate details of a flower petal or marvel at the vast expanse of the Milky Way galaxy stretching across the night sky. Photography allows me to capture these two extremes of scale, revealing the hidden beauty and complexity that exists right outside my doorstep.\n\n\nWith my macro lens, I can zoom in on the tiniest details of nature, revealing a world often overlooked by the naked eye. The delicate veins of a leaf, the iridescent scales of a butterfly’s wing, the intricate patterns of a spider’s web – these are just a few of the subjects that have captivated me through my macro lens.\nMacro photography is a meditative practice for me. It forces me to slow down, observe carefully, and appreciate the intricate beauty that surrounds us. It’s a reminder that even the smallest things can hold immense wonder.\n\n\n\nAs the sun sets, my backyard transforms into a window to the universe. With my telescope and camera, I can capture the faint light of distant galaxies, nebulae, and star clusters, revealing the breathtaking beauty of the cosmos.\nAstrophotography is a humbling experience. It reminds me of our place in the vastness of space and time, and it fills me with awe and wonder at the mysteries of the universe.\n\n\n\nThe contrast between macro and astrophotography is striking, yet both genres share a common thread: they reveal hidden worlds that lie beyond our everyday perception.\nMy backyard is a microcosm of this duality. It’s a place where I can explore the extremes of scale, from the microscopic to the cosmic, all within a few steps of my home. This juxtaposition has inspired me to create a photo book, tentatively titled “My Backyard: From Small to Big,” where I plan to showcase the beauty and wonder of both worlds.\n\n\n\nMy backyard is a never-ending source of inspiration for my photography. I’m constantly discovering new subjects, experimenting with different techniques, and seeking to capture the unique beauty of this small but vast universe.\nTo learn more about my astrophotography adventures, check out my dedicated page: [my-backyard-cosmic-canvas.qmd]\nI hope my photos inspire you to take a closer look at your own backyard and discover the hidden worlds that await your exploration."
+  },
+  {
+    "objectID": "passions/small-wonders-big-backyard.html#through-my-lens-a-backyard-odyssey-from-macro-to-macrocosm",
+    "href": "passions/small-wonders-big-backyard.html#through-my-lens-a-backyard-odyssey-from-macro-to-macrocosm",
+    "title": "Through My Lens: A Backyard Odyssey from Macro to Macrocosm",
+    "section": "",
+    "text": "My backyard is a universe of its own. It’s a place where I can lose myself in the intricate details of a flower petal or marvel at the vast expanse of the Milky Way galaxy stretching across the night sky. Photography allows me to capture these two extremes of scale, revealing the hidden beauty and complexity that exists right outside my doorstep.\n\n\nWith my macro lens, I can zoom in on the tiniest details of nature, revealing a world often overlooked by the naked eye. The delicate veins of a leaf, the iridescent scales of a butterfly’s wing, the intricate patterns of a spider’s web – these are just a few of the subjects that have captivated me through my macro lens.\nMacro photography is a meditative practice for me. It forces me to slow down, observe carefully, and appreciate the intricate beauty that surrounds us. It’s a reminder that even the smallest things can hold immense wonder.\n\n\n\nAs the sun sets, my backyard transforms into a window to the universe. With my telescope and camera, I can capture the faint light of distant galaxies, nebulae, and star clusters, revealing the breathtaking beauty of the cosmos.\nAstrophotography is a humbling experience. It reminds me of our place in the vastness of space and time, and it fills me with awe and wonder at the mysteries of the universe.\n\n\n\nThe contrast between macro and astrophotography is striking, yet both genres share a common thread: they reveal hidden worlds that lie beyond our everyday perception.\nMy backyard is a microcosm of this duality. It’s a place where I can explore the extremes of scale, from the microscopic to the cosmic, all within a few steps of my home. This juxtaposition has inspired me to create a photo book, tentatively titled “My Backyard: From Small to Big,” where I plan to showcase the beauty and wonder of both worlds.\n\n\n\nMy backyard is a never-ending source of inspiration for my photography. I’m constantly discovering new subjects, experimenting with different techniques, and seeking to capture the unique beauty of this small but vast universe.\nTo learn more about my astrophotography adventures, check out my dedicated page: [my-backyard-cosmic-canvas.qmd]\nI hope my photos inspire you to take a closer look at your own backyard and discover the hidden worlds that await your exploration."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Interests",
+    "title": "Teaching",
     "section": "",
-    "text": "Discover some of my hobbies and passions.\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Title 1\n\n\nBrief project description.\n\n\n\n\n\n\nMay 17, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Igniting a passion for technology and innovation in the next generation\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Philosophy\n\n\n\nCaring\n\n\nCompetence\n\n\nPassion\n\n\nEducation\n\n\n\nDiscover the core principles that guide my approach to inspiring and transforming the educational journey.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCourses Taught\n\n\n\nInformation Systems\n\n\nDatabase Management\n\n\nAI\n\n\nSDLC\n\n\n\nTake a look at the variety of courses I’ve taught, designed to bridge the gap between theory and practice.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Experience\n\n\n\nAustralian Navy\n\n\nUniversity\n\n\nInformation Systems\n\n\nComputer Science\n\n\n\nExplore my diverse teaching experiences, from the Australian Navy to leading university courses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Resources\n\n\n\nLecture Slides\n\n\nDevelopment\n\n\nInformation Systems\n\n\n\nAccess a collection of valuable teaching materials and resources I’ve created to enhance the learning experience.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "interests/interests-1.html",
-    "href": "interests/interests-1.html",
-    "title": "Interests Title 1",
+    "objectID": "passions.html",
+    "href": "passions.html",
+    "title": "Passions",
     "section": "",
-    "text": "(Project details, images, code snippets, etc.)"
-  },
-  {
-    "objectID": "interests/interests-1.html#interests-title",
-    "href": "interests/interests-1.html#interests-title",
-    "title": "Interests Title 1",
-    "section": "",
-    "text": "(Project details, images, code snippets, etc.)"
+    "text": "From Pixels to Planets: My Explorations in Art, Science, and Play\n\n\n\n\n\n\n\n\n\n\n\n\nThrough My Lens: A Backyard Odyssey from Macro to Macrocosm\n\n\n\nphotography\n\n\nmacro\n\n\nastrophotography\n\n\nbackyard\n\n\nnature\n\n\n\nExploring the extremes of scale in my own backyard, from the intricate details of insects to the vast expanse of the night sky.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRetro Gaming: Where Pixels and Nostalgia Collide\n\n\n\nretro gaming\n\n\natari 2600\n\n\nnostalgia\n\n\ngaming\n\n\n\nReliving the golden age of gaming, one cartridge at a time.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTennis: My Love for the Game, Set, and Match\n\n\n\ntennis\n\n\nsports\n\n\nhobby\n\n\nfitness\n\n\n\nFrom the court to the couch, tennis is a lifelong passion that keeps me active and engaged.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuitar: Rediscovering the Joy of Strumming\n\n\n\nguitar\n\n\nmusic\n\n\nhobby\n\n\nbeginner\n\n\nlearning\n\n\n\nPicking up where I left off, rekindling my childhood love for the guitar, one (sometimes clumsy) chord at a time.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRugby: A Lifelong Passion for the Beautiful Game\n\n\n\nrugby\n\n\nsports\n\n\nteamwork\n\n\npassion\n\n\n\nFrom scrum to try line, rugby has taught me valuable lessons about teamwork, resilience, and the joy of competition.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAstrophotography: My Backyard Universe\n\n\n\nastronomy\n\n\nphotography\n\n\nhobby\n\n\n\nCapturing the wonders of the night sky from my backyard.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3D Printing: Creating Worlds in My Workshop\n\n\n\n3d printing\n\n\nmaker\n\n\ntechnology\n\n\nhobby\n\n\n\nFrom functional tools to artistic masterpieces, exploring the endless possibilities of 3D printing.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMartial Arts: My Journey of Discipline and Self-Discovery\n\n\n\nmartial arts\n\n\ndiscipline\n\n\nself-improvement\n\n\nhealth\n\n\n\nFrom the dojo to the everyday, martial arts have shaped my life in profound ways.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Michael Borck",
     "section": "",
-    "text": "About Me\n\n\nA brief introduction to my background, interests, and passions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInterests\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMusings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInterests\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMusings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPassions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTalks & Presentations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Explore my latest projects and experiments.\n\n\n\n\n\n\n\n\n\n\n\n\nProject Title 1\n\n\nBrief project description.\n\n\n\n\n\n\nMay 17, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "From Classroom to Playground: My Software Experiments and Explorations\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring SimNexus: A Business Simulation Toolkit\n\n\n\npython\n\n\neducation\n\n\nsimulation\n\n\nbusiness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCloudCore: A fictional company’s website, serving as an educational platform\n\n\n\nwebsite\n\n\neducation\n\n\nsecurity\n\n\nbusiness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolySim: Configure, Play, Transform - Enter a Universe of Your Making\n\n\n\npython\n\n\nflet\n\n\nsimulation\n\n\ngame\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrueRoll: model games, analyse player performance, and explore ten-pin bowling\n\n\n\npython\n\n\nten-pin bowling\n\n\nsimulation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "passions/pixel-power.html",
+    "href": "passions/pixel-power.html",
+    "title": "Retro Gaming: Where Pixels and Nostalgia Collide",
+    "section": "",
+    "text": "In a world of high-definition graphics and immersive virtual realities, I find myself drawn to the simpler pleasures of retro gaming. The blocky pixels, the iconic soundtracks, the challenging gameplay – it’s a nostalgic journey back to my childhood and a celebration of gaming’s roots.\nWhile I appreciate all aspects of retro gaming, from vintage consoles like the Nintendo Entertainment System to modern emulation options, the Atari 2600 holds a special place in my heart. Its woodgrain finish, iconic joystick, and library of classic cartridges transport me back to a time of simpler joys and endless possibilities.\nThe Atari 2600: A Timeless Classic\nThe Atari 2600 wasn’t just a console; it was a cultural phenomenon. It introduced millions of people to the world of video games, sparking a revolution that continues to this day. The iconic titles like Space Invaders, Pitfall!, and Adventure defined a generation and laid the foundation for the modern gaming industry.\nI’m proud to own a physical Atari 2600 console, complete with a collection of cartridges that I’ve carefully curated over the years. There’s something special about holding a physical cartridge in your hands, knowing that it contains hours of entertainment and a piece of gaming history.\nWhy I Love Retro Gaming\n\nNostalgia: Retro games transport me back to my childhood, evoking fond memories of simpler times and the joy of discovering new worlds and characters.\nSimplicity: The games may be simple by today’s standards, but that’s part of their charm. They’re easy to pick up and play, yet they often offer surprisingly deep and challenging gameplay.\nCommunity: The retro gaming community is vibrant and passionate, with online forums, conventions, and events dedicated to celebrating and preserving classic games.\nPreservation: Retro gaming is not just about nostalgia; it’s also about preserving a part of our cultural heritage. These games are a testament to the creativity and ingenuity of early game developers.\n\nBeyond the Atari 2600\nWhile the Atari 2600 is my first love, I also enjoy exploring other retro consoles and games. I appreciate the innovation of the Nintendo Entertainment System, the arcade-perfect ports on the Sega Genesis, and the quirky charm of the Commodore 64.\nI’m also a fan of modern emulation, which allows me to play classic games on newer devices. The ability to save and load states, rewind gameplay, and enhance graphics makes retro gaming even more accessible and enjoyable.\nRetro gaming is a passion that continues to bring me joy and a sense of connection to the past."
+  },
+  {
+    "objectID": "passions/pixel-power.html#retro-gaming-where-pixels-and-nostalgia-collide",
+    "href": "passions/pixel-power.html#retro-gaming-where-pixels-and-nostalgia-collide",
+    "title": "Retro Gaming: Where Pixels and Nostalgia Collide",
+    "section": "",
+    "text": "In a world of high-definition graphics and immersive virtual realities, I find myself drawn to the simpler pleasures of retro gaming. The blocky pixels, the iconic soundtracks, the challenging gameplay – it’s a nostalgic journey back to my childhood and a celebration of gaming’s roots.\nWhile I appreciate all aspects of retro gaming, from vintage consoles like the Nintendo Entertainment System to modern emulation options, the Atari 2600 holds a special place in my heart. Its woodgrain finish, iconic joystick, and library of classic cartridges transport me back to a time of simpler joys and endless possibilities.\nThe Atari 2600: A Timeless Classic\nThe Atari 2600 wasn’t just a console; it was a cultural phenomenon. It introduced millions of people to the world of video games, sparking a revolution that continues to this day. The iconic titles like Space Invaders, Pitfall!, and Adventure defined a generation and laid the foundation for the modern gaming industry.\nI’m proud to own a physical Atari 2600 console, complete with a collection of cartridges that I’ve carefully curated over the years. There’s something special about holding a physical cartridge in your hands, knowing that it contains hours of entertainment and a piece of gaming history.\nWhy I Love Retro Gaming\n\nNostalgia: Retro games transport me back to my childhood, evoking fond memories of simpler times and the joy of discovering new worlds and characters.\nSimplicity: The games may be simple by today’s standards, but that’s part of their charm. They’re easy to pick up and play, yet they often offer surprisingly deep and challenging gameplay.\nCommunity: The retro gaming community is vibrant and passionate, with online forums, conventions, and events dedicated to celebrating and preserving classic games.\nPreservation: Retro gaming is not just about nostalgia; it’s also about preserving a part of our cultural heritage. These games are a testament to the creativity and ingenuity of early game developers.\n\nBeyond the Atari 2600\nWhile the Atari 2600 is my first love, I also enjoy exploring other retro consoles and games. I appreciate the innovation of the Nintendo Entertainment System, the arcade-perfect ports on the Sega Genesis, and the quirky charm of the Commodore 64.\nI’m also a fan of modern emulation, which allows me to play classic games on newer devices. The ability to save and load states, rewind gameplay, and enhance graphics makes retro gaming even more accessible and enjoyable.\nRetro gaming is a passion that continues to bring me joy and a sense of connection to the past."
+  },
+  {
+    "objectID": "passions/finding-my-rhythm.html",
+    "href": "passions/finding-my-rhythm.html",
+    "title": "Guitar: Rediscovering the Joy of Strumming",
+    "section": "",
+    "text": "There’s something undeniably magical about the guitar. Maybe it’s the way it feels in your hands, the warmth of the wood against your fingertips. Or perhaps it’s the thrill of hearing those first few chords ring out, even if they’re a little rough around the edges.\nAs a kid, I spent countless hours strumming away, dreaming of becoming a rock star. Life got in the way, and the guitar was relegated to the back of the closet for years. But recently, I’ve rediscovered that childhood passion, dusting off the old six-string and embarking on a new musical journey.\nWhy I’m Learning (Again)\n\nStress Relief: In today’s fast-paced world, finding moments of calm and relaxation is essential. Playing guitar provides a welcome escape, allowing me to focus on the present moment and let go of worries.\nCreative Outlet: Music is a powerful form of self-expression, and the guitar offers endless possibilities for exploring my creativity. Even as a beginner, I can already feel the joy of creating simple melodies and chord progressions.\nPersonal Challenge: Let’s face it, learning the guitar as an adult isn’t easy. But I’m embracing the challenge, slowly but surely building my skills and confidence. It’s a humbling experience, but also incredibly rewarding.\nConnection to Others: The online guitar community has been a fantastic source of support and inspiration. Connecting with fellow beginners and experienced players alike has made the learning process more enjoyable and less intimidating.\n\nMy (Humble) Toolkit\n\nGuitar: A trusty acoustic that’s seen better days, but it still sounds pretty good.\nYouTube: My go-to resource for tutorials, lessons, and inspiration.\nOnline Courses: I’ve dabbled in a few online courses to supplement my learning.\nCalluses: A badge of honor for any aspiring guitarist!\n\nMy Current Playlist (aka What I Can Almost Play)\n\n“Wonderwall” by Oasis (the beginner’s anthem)\n“Knockin’ on Heaven’s Door” by Bob Dylan\n(List a few other simple songs you’re working on)\n\nGoals and Aspirations\n\nPlay a song all the way through without messing up (a major milestone!).\nWrite my own simple song (even if it’s just a few chords and lyrics).\nJam with friends and family (hopefully without too much embarrassment).\n\nEmbracing the Journey\nI know I’m not going to be the next Jimi Hendrix anytime soon, but that’s okay. I’m rediscovering the joy of music, the satisfaction of learning new skills, and the simple pleasure of strumming a few chords.\nIf you’re a fellow beginner, or someone who’s thinking about picking up the guitar again, I encourage you to take the plunge. It’s never too late to start (or restart) your musical journey!"
+  },
+  {
+    "objectID": "passions/finding-my-rhythm.html#guitar-rediscovering-the-joy-of-strumming",
+    "href": "passions/finding-my-rhythm.html#guitar-rediscovering-the-joy-of-strumming",
+    "title": "Guitar: Rediscovering the Joy of Strumming",
+    "section": "",
+    "text": "There’s something undeniably magical about the guitar. Maybe it’s the way it feels in your hands, the warmth of the wood against your fingertips. Or perhaps it’s the thrill of hearing those first few chords ring out, even if they’re a little rough around the edges.\nAs a kid, I spent countless hours strumming away, dreaming of becoming a rock star. Life got in the way, and the guitar was relegated to the back of the closet for years. But recently, I’ve rediscovered that childhood passion, dusting off the old six-string and embarking on a new musical journey.\nWhy I’m Learning (Again)\n\nStress Relief: In today’s fast-paced world, finding moments of calm and relaxation is essential. Playing guitar provides a welcome escape, allowing me to focus on the present moment and let go of worries.\nCreative Outlet: Music is a powerful form of self-expression, and the guitar offers endless possibilities for exploring my creativity. Even as a beginner, I can already feel the joy of creating simple melodies and chord progressions.\nPersonal Challenge: Let’s face it, learning the guitar as an adult isn’t easy. But I’m embracing the challenge, slowly but surely building my skills and confidence. It’s a humbling experience, but also incredibly rewarding.\nConnection to Others: The online guitar community has been a fantastic source of support and inspiration. Connecting with fellow beginners and experienced players alike has made the learning process more enjoyable and less intimidating.\n\nMy (Humble) Toolkit\n\nGuitar: A trusty acoustic that’s seen better days, but it still sounds pretty good.\nYouTube: My go-to resource for tutorials, lessons, and inspiration.\nOnline Courses: I’ve dabbled in a few online courses to supplement my learning.\nCalluses: A badge of honor for any aspiring guitarist!\n\nMy Current Playlist (aka What I Can Almost Play)\n\n“Wonderwall” by Oasis (the beginner’s anthem)\n“Knockin’ on Heaven’s Door” by Bob Dylan\n(List a few other simple songs you’re working on)\n\nGoals and Aspirations\n\nPlay a song all the way through without messing up (a major milestone!).\nWrite my own simple song (even if it’s just a few chords and lyrics).\nJam with friends and family (hopefully without too much embarrassment).\n\nEmbracing the Journey\nI know I’m not going to be the next Jimi Hendrix anytime soon, but that’s okay. I’m rediscovering the joy of music, the satisfaction of learning new skills, and the simple pleasure of strumming a few chords.\nIf you’re a fellow beginner, or someone who’s thinking about picking up the guitar again, I encourage you to take the plunge. It’s never too late to start (or restart) your musical journey!"
+  },
+  {
+    "objectID": "passions/my-backyard-cosmic-canvas.html",
+    "href": "passions/my-backyard-cosmic-canvas.html",
+    "title": "Astrophotography: My Backyard Universe",
+    "section": "",
+    "text": "(Your content here)\nI’ve always been fascinated by the vastness and beauty of the night sky. Living in Western Australia, I’m fortunate to have access to some truly breathtaking views of the cosmos. I started dabbling in astrophotography a few years ago, and it’s quickly become one of my favorite hobbies.\nWhat I Love About Astrophotography\n\nThe Challenge: Capturing stunning images of distant galaxies, nebulae, and planets requires patience, technical skill, and a bit of luck. It’s a constant learning process, and I enjoy the challenge of improving my technique.\nThe Beauty: There’s something truly awe-inspiring about seeing the intricate details of celestial objects that are millions of light-years away. It’s a reminder of how small we are in the grand scheme of things.\nThe Community: The astrophotography community is incredibly supportive and passionate. It’s great to connect with other like-minded individuals who share a love for the night sky.\n\nMy Gear\n\n(List your camera, telescope, mounts, etc.)\n\nMy Favorite Targets\n\n(Mention some of your favorite objects to photograph, like the Milky Way, Orion Nebula, or Jupiter.)\n\nTips for Beginners\n\n(Offer some advice for people just starting out in astrophotography.)\n\nMy Astrophotography Gallery\n\n(Embed or link to a gallery of your best astrophotography images.)"
+  },
+  {
+    "objectID": "passions/my-backyard-cosmic-canvas.html#astrophotography-my-backyard-universe",
+    "href": "passions/my-backyard-cosmic-canvas.html#astrophotography-my-backyard-universe",
+    "title": "Astrophotography: My Backyard Universe",
+    "section": "",
+    "text": "(Your content here)\nI’ve always been fascinated by the vastness and beauty of the night sky. Living in Western Australia, I’m fortunate to have access to some truly breathtaking views of the cosmos. I started dabbling in astrophotography a few years ago, and it’s quickly become one of my favorite hobbies.\nWhat I Love About Astrophotography\n\nThe Challenge: Capturing stunning images of distant galaxies, nebulae, and planets requires patience, technical skill, and a bit of luck. It’s a constant learning process, and I enjoy the challenge of improving my technique.\nThe Beauty: There’s something truly awe-inspiring about seeing the intricate details of celestial objects that are millions of light-years away. It’s a reminder of how small we are in the grand scheme of things.\nThe Community: The astrophotography community is incredibly supportive and passionate. It’s great to connect with other like-minded individuals who share a love for the night sky.\n\nMy Gear\n\n(List your camera, telescope, mounts, etc.)\n\nMy Favorite Targets\n\n(Mention some of your favorite objects to photograph, like the Milky Way, Orion Nebula, or Jupiter.)\n\nTips for Beginners\n\n(Offer some advice for people just starting out in astrophotography.)\n\nMy Astrophotography Gallery\n\n(Embed or link to a gallery of your best astrophotography images.)"
+  },
+  {
+    "objectID": "passions/the-way-of-the-warrior.html",
+    "href": "passions/the-way-of-the-warrior.html",
+    "title": "Martial Arts: My Journey of Discipline and Self-Discovery",
+    "section": "",
+    "text": "Martial arts have been a constant in my life for many years, providing me with not only physical strength and self-defense skills, but also valuable lessons in discipline, perseverance, and respect. The dojo has become my second home, a place where I challenge myself, learn from others, and strive for continuous improvement.\nWhat I Love About Martial Arts\n\nPhysical Fitness: Martial arts training is an excellent way to stay in shape, building strength, endurance, flexibility, and coordination. The combination of cardio, strength training, and technical drills keeps me feeling energized and healthy.\nMental Discipline: The focus and concentration required in martial arts have helped me develop mental resilience and the ability to stay calm under pressure. The discipline I’ve learned on the mat extends to other areas of my life, enhancing my productivity and focus.\nSelf-Defense Skills: Knowing that I have the ability to defend myself and my loved ones gives me confidence and peace of mind. Martial arts training has taught me valuable techniques for staying safe and aware of my surroundings.\nCommunity: The camaraderie and support within the martial arts community are incredibly inspiring. I’ve made lifelong friends and mentors who share my passion for training and self-improvement.\n\nMy Martial Arts Journey\n\nStyles: [List the martial arts styles you’ve trained in, e.g., Karate, Taekwondo, Jiu-Jitsu, etc.]\nExperience: [Briefly describe your experience level and any significant achievements or milestones.]\n\nLife Lessons from the Dojo\n\nRespect: The martial arts teach deep respect for oneself, others, and the art itself. This respect extends beyond the dojo and influences how I interact with people in all areas of my life.\nPerseverance: Overcoming challenges and pushing through difficult training sessions has instilled in me a strong sense of perseverance and determination.\nHumility: Even as I progress in my martial arts journey, I am always reminded that there is more to learn. This keeps me humble and eager to continue growing as a martial artist and as a person.\n\nBeyond the Dojo\nMartial arts have taught me valuable lessons that I apply in my personal and professional life. The discipline, focus, and resilience I’ve developed on the mat have helped me excel in my career, manage stress, and overcome obstacles.\nI encourage everyone to explore the world of martial arts and discover the many benefits it has to offer."
+  },
+  {
+    "objectID": "passions/the-way-of-the-warrior.html#martial-arts-my-journey-of-discipline-and-self-discovery",
+    "href": "passions/the-way-of-the-warrior.html#martial-arts-my-journey-of-discipline-and-self-discovery",
+    "title": "Martial Arts: My Journey of Discipline and Self-Discovery",
+    "section": "",
+    "text": "Martial arts have been a constant in my life for many years, providing me with not only physical strength and self-defense skills, but also valuable lessons in discipline, perseverance, and respect. The dojo has become my second home, a place where I challenge myself, learn from others, and strive for continuous improvement.\nWhat I Love About Martial Arts\n\nPhysical Fitness: Martial arts training is an excellent way to stay in shape, building strength, endurance, flexibility, and coordination. The combination of cardio, strength training, and technical drills keeps me feeling energized and healthy.\nMental Discipline: The focus and concentration required in martial arts have helped me develop mental resilience and the ability to stay calm under pressure. The discipline I’ve learned on the mat extends to other areas of my life, enhancing my productivity and focus.\nSelf-Defense Skills: Knowing that I have the ability to defend myself and my loved ones gives me confidence and peace of mind. Martial arts training has taught me valuable techniques for staying safe and aware of my surroundings.\nCommunity: The camaraderie and support within the martial arts community are incredibly inspiring. I’ve made lifelong friends and mentors who share my passion for training and self-improvement.\n\nMy Martial Arts Journey\n\nStyles: [List the martial arts styles you’ve trained in, e.g., Karate, Taekwondo, Jiu-Jitsu, etc.]\nExperience: [Briefly describe your experience level and any significant achievements or milestones.]\n\nLife Lessons from the Dojo\n\nRespect: The martial arts teach deep respect for oneself, others, and the art itself. This respect extends beyond the dojo and influences how I interact with people in all areas of my life.\nPerseverance: Overcoming challenges and pushing through difficult training sessions has instilled in me a strong sense of perseverance and determination.\nHumility: Even as I progress in my martial arts journey, I am always reminded that there is more to learn. This keeps me humble and eager to continue growing as a martial artist and as a person.\n\nBeyond the Dojo\nMartial arts have taught me valuable lessons that I apply in my personal and professional life. The discipline, focus, and resilience I’ve developed on the mat have helped me excel in my career, manage stress, and overcome obstacles.\nI encourage everyone to explore the world of martial arts and discover the many benefits it has to offer."
+  },
+  {
+    "objectID": "about/interest.html",
+    "href": "about/interest.html",
+    "title": "Passions",
+    "section": "",
+    "text": "While my professional life revolves around teaching and research, my personal passions are equally eclectic and fulfilling. I find joy in exploring the world through different lenses, whether it’s through a telescope capturing the wonders of the night sky or a macro lens revealing the intricate details of my backyard’s ecosystem. I’m also an avid 3D printing enthusiast, constantly tinkering with new creations, and a budding musician, finding solace and expression in the strum of a guitar. My love for retro gaming and martial arts also provides a balance of nostalgia and physicality in my life.\nYou can learn more about my hobbies and passions on my Passions page, where I dive deeper into my love for astrophotography, 3D printing, martial arts, tennis, guitar, and retro gaming."
+  },
+  {
+    "objectID": "about/education.html",
+    "href": "about/education.html",
+    "title": "Education",
+    "section": "",
+    "text": "PhD in Computer Vision Curtin University, 2017\nGradDip Business Curtin University, 2000\nBSc Computer Science Australia National University, 1994\nBAppSc Mathematics Queensland University of Technology, 1989"
+  },
+  {
+    "objectID": "about/hello.html",
+    "href": "about/hello.html",
+    "title": "Hi!",
+    "section": "",
+    "text": "G’day! I’m Michael, a passionate educator, researcher, husband, father, son, uncle, and friend based in Perth, Western Australia. My journey has been a whirlwind of diverse experiences, from serving in the Australian Navy to delving into the complexities of artificial intelligence, with plenty of exciting detours along the way. My path has been shaped by my insatiable curiosity and a lifelong love for learning, leading me to explore various fields like mathematics, computer science, and business."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About",
     "section": "",
-    "text": "(Your about me content here)"
+    "text": "Resume (One Page PDF)\nCV (Detailed 10 Page PDF)\n\n\n\n\n\n\n\n\n\n\n\n\n\nLet’s Connect\n\n\n\nConnect\n\n\nSocial Media\n\n\nContact\n\n\n\nConnect with me on social media and explore my site.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPassions\n\n\n\nPassions\n\n\nHobbies\n\n\nAstrophotography\n\n\n3D Printing\n\n\nMartial Arts\n\n\nRetro Gaming\n\n\n\nExplore my eclectic and fulfilling personal passions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills\n\n\n\nSkills\n\n\nProgramming\n\n\nWeb Development\n\n\nTechnical Proficiency\n\n\n\nA summary of my technical skills and proficiencies.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEducation\n\n\n\nEducation\n\n\nQualifications\n\n\nComputer Vision\n\n\nBusiness\n\n\nMathematics\n\n\n\nMy educational background and qualifications.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExpertise\n\n\n\nExpertise\n\n\nTeaching\n\n\nProjects\n\n\nResearch\n\n\nAI\n\n\nEducation\n\n\nComputer Vision\n\n\n\nExplore my professional expertise and areas of work.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi!\n\n\n\nMichael Borck\n\n\nEducator\n\n\nResearcher\n\n\nPersonal Journey\n\n\n\nGet to know the man behind the code, the camera, and the guitar.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/projects-1.html",
-    "href": "projects/projects-1.html",
-    "title": "Project Title 1",
+    "objectID": "projects/simnexus.html",
+    "href": "projects/simnexus.html",
+    "title": "Exploring SimNexus: A Business Simulation Toolkit",
     "section": "",
-    "text": "(Project details, images, code snippets, etc.)"
+    "text": "SimNexus, one of my key projects that showcases my expertise in developing software for use in education, business and economics. As the creator and maintainer of SimNexus, have designed this tool to help users explore and understand the dynamics of product popularity, stock market behaviour, and resource price fluctuations. SimNexus offers a hands-on experience that brings theoretical concepts to life through practical application.\nSimNexus is perfect for students, educators, and analysts looking to analyze how marketing strategies, economic trends, and supply disruptions affect market behaviors. My comprehensive documentation and user-friendly tutorials make it easy to get started. By creating and maintaining SimNexus, I aim to provide valuable insights into the forces driving market dynamics and enhance decision-making in the complex world of economics. Check out the links to GitHub, PyPI, and the detailed API documentation for more information on how to use this powerful framework.\nFor detailed documentation, please visit the project documentation site.\nYou can find the source code and additional details on the GitHub repository.\nThe project is also available on PyPI. You can install it using pip:\npip simnexus"
   },
   {
-    "objectID": "projects/projects-1.html#project-title-1",
-    "href": "projects/projects-1.html#project-title-1",
-    "title": "Project Title 1",
+    "objectID": "projects/polysim.html",
+    "href": "projects/polysim.html",
+    "title": "PolySim: Configure, Play, Transform - Enter a Universe of Your Making",
     "section": "",
-    "text": "(Project details, images, code snippets, etc.)"
+    "text": "PolySim is a versatile simulation game built using the Flet framework, which allows you to write your application in Python and deploy it seamlessly across the web, Android, iOS, and desktop platforms. The simulator enable dynamic switching between game themes and mechanics via externally loaded JSON configuration files. The application is cross-platform and can run as a web app, desktop app, or on mobile devices.\nYou can find the source code and additional details on the GitHub repository."
   },
   {
-    "objectID": "teaching/teaching-1.html",
-    "href": "teaching/teaching-1.html",
-    "title": "Teaching Title 1",
+    "objectID": "talks-presentations.html",
+    "href": "talks-presentations.html",
+    "title": "Talks & Presentations",
     "section": "",
-    "text": "(Project details, images, code snippets, etc.)"
+    "text": "Bridging the Gap Between Theory and Practice: My Research in AI, Education, and Computer Vision.\n\n\n\n\n\n\n\n\n\n\n\n\nAI in the Curriculum\n\n\n\nArtificial Intelligence\n\n\nAI Integration\n\n\nUniversity Curriculum\n\n\nAI Education\n\n\nAI in Industry\n\n\nEthical AI\n\n\nFaculty of Business and Law\n\n\nCurtin University\n\n\n\nArtificial Intelligence (AI) involves developing computer systems to perform tasks requiring human intelligence, such as visual perception and language translation. AI is…\n\n\n\n\n\n\nMar 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness AI Research Group (BARG)\n\n\n\nArtificial Intelligence\n\n\nBusiness AI\n\n\nLanguage Models\n\n\nEthical AI\n\n\nInterdisciplinary Research\n\n\nAI Applications\n\n\nData Governance\n\n\nCurtin University\n\n\nFuture of Work\n\n\n\nThe Business AI Research Group (BARG) presentation provides an overview of the group’s mission to drive innovation through AI research, industry collaborations, and…\n\n\n\n\n\n\nOct 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytics for Everyone\n\n\n\nArtificial Intelligence\n\n\nLarge Language Models\n\n\nData Analytics\n\n\nAI Integration\n\n\nEthical AI\n\n\nStrategic Thinking\n\n\nAI Tools\n\n\nTechnical Proficiency\n\n\nCurtin University\n\n\n\nThis presentation discusses the transformative potential of AI, particularly large language models (LLMs), in enhancing data analysis by automating routine tasks, improving…\n\n\n\n\n\n\nAug 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSoMM School Advisory Board\n\n\n\nChatGPT\n\n\nAI in Education\n\n\nPersonalized Learning\n\n\nInteractive Education\n\n\nTutoring\n\n\nFeedback\n\n\nInclusive Learning\n\n\nCurtin University\n\n\n\nChatGPT is a powerful tool for interactive and personalized education. It assists in tutoring, explaining complex concepts, providing feedback, and offering practice…\n\n\n\n\n\n\nAug 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nEMCR Keynote\n\n\n\nGenerative AI\n\n\nAI Research\n\n\nAI Ethics\n\n\nAcademic Research\n\n\nAI Applications\n\n\nCurtin University\n\n\n\nThe keynote will provide a comprehensive overview of the remarkable potential of Generative AI and its transformative influence in the realm of academic research delving…\n\n\n\n\n\n\nJul 20, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "teaching/teaching-1.html#project-title",
-    "href": "teaching/teaching-1.html#project-title",
-    "title": "Teaching Title 1",
+    "objectID": "teaching/teaching-philosphy.html",
+    "href": "teaching/teaching-philosphy.html",
+    "title": "Teaching Philosophy",
     "section": "",
-    "text": "(Project details, images, code snippets, etc.)"
+    "text": "My teaching philosophy is grounded in three conceptual pillars: Caring, Competence, and Passion. I believe that education should be an inspiring and transformative journey, and I strive to create a dynamic and inclusive classroom environment where students feel encouraged to explore, question, and apply their knowledge."
   },
   {
-    "objectID": "research/research-1.html",
-    "href": "research/research-1.html",
-    "title": "Research Title 1",
-    "section": "",
-    "text": "(Project details, images, code snippets, etc.)"
+    "objectID": "teaching/teaching-philosphy.html#examples-of-teaching-practices",
+    "href": "teaching/teaching-philosphy.html#examples-of-teaching-practices",
+    "title": "Teaching Philosophy",
+    "section": "Examples of Teaching Practices",
+    "text": "Examples of Teaching Practices\n\nCritical First Classes: Setting the tone and expectations from the beginning.\nPrivate Praise: Providing personalized feedback to encourage students.\nFlexible Office Hours: Being available to support students’ varying schedules.\nSkeletal PowerPoints: Using minimal slides to encourage active participation.\nFirst to Arrive, Last to Leave: Demonstrating commitment and availability.\nGuidance on Focus: Teaching students where to look, not just what to see.\nOut-of-Hours Access Near Deadlines: Providing extra support when students need it most."
   },
   {
-    "objectID": "research/research-1.html#project-title",
-    "href": "research/research-1.html#project-title",
-    "title": "Research Title 1",
+    "objectID": "teaching/experience.html",
+    "href": "teaching/experience.html",
+    "title": "Teaching Experience",
     "section": "",
-    "text": "(Project details, images, code snippets, etc.)"
+    "text": "Business Information Systems, Curtin University\nComputer Science, Curtin University\nAustralian Navy Training Command\nWest TAFE, Joondalup\nCurtin International College\nStanley College\nAustralian Data Cybersecurity Institute"
+  },
+  {
+    "objectID": "research/publications.html",
+    "href": "research/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "From journal articles to conference papers, explore the breadth and depth of my contributions to the field:"
+  },
+  {
+    "objectID": "research/publications.html#section",
+    "href": "research/publications.html#section",
+    "title": "Publications",
+    "section": "2014",
+    "text": "2014\n\nConference Articles (Research)\n\nBorck, M., G. West, and T. Tan. 2014. “Use of multiple low level features to find interesting regions.” In ICPRAM 2014, Mar 6, 2021, Angers, Loire Valley, France: SCITEPRESS - Science and Technology Publications, Lda.\nBorck, M., R. Palmer, G. West, and T. Tan. 2014. “Using depth maps to find interesting regions.” In 2014 IEEE Region 10 Symposium (TENSYMP 2014), Apr 14, 2014, Kuala Lumpur, Malaysia: IEEE.\nBorck, M., G. West, and T. Tan. 2014. “An image engineering approach to analysing mobile mapping data.” In Research at Locate’14, Apr 7, 2015, Canberra, Australia: CEUR Workshop Proceedings."
+  },
+  {
+    "objectID": "research/publications.html#section-1",
+    "href": "research/publications.html#section-1",
+    "title": "Publications",
+    "section": "2012",
+    "text": "2012\n\nConference Articles (Research)\n\nPalmer, R., M. Borck, G. West, and T. Tan. 2012. “Intensity and Range Based Features for Object Detection in Mobile Mapping Data.” In XXII ISPRS Congress, ISPRS 2012, Aug 25, 2012, Melbourne, Australia: Copernicus GmbH."
+  },
+  {
+    "objectID": "research/publications.html#section-2",
+    "href": "research/publications.html#section-2",
+    "title": "Publications",
+    "section": "2000",
+    "text": "2000\n\nConference Article (Research)\n\nBorck, Michael. 2000. “Industrial Application of Sensor Nets.” Computer 33 (9): 18–26."
   }
 ]

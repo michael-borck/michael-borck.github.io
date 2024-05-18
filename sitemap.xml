@@ -2,54 +2,150 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://michaelborck.au/research.html</loc>
-    <lastmod>2024-05-17T12:52:17.942Z</lastmod>
+    <lastmod>2024-05-18T09:28:44.421Z</lastmod>
   </url>
   <url>
-    <loc>https://michaelborck.au/research/research-2.html</loc>
-    <lastmod>2024-05-17T12:43:49.286Z</lastmod>
+    <loc>https://michaelborck.au/teaching/resources.html</loc>
+    <lastmod>2024-05-18T07:44:01.306Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/courses_taught.html</loc>
+    <lastmod>2024-05-18T07:43:23.458Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/musings.html</loc>
-    <lastmod>2024-05-17T12:40:12.432Z</lastmod>
+    <lastmod>2024-05-18T00:22:14.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/projects/trueroll.html</loc>
+    <lastmod>2024-05-18T00:44:50.113Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/projects/cloudcore.html</loc>
+    <lastmod>2024-05-18T00:44:36.609Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/musings/musings-1.html</loc>
     <lastmod>2024-05-17T13:36:40.446Z</lastmod>
   </url>
   <url>
-    <loc>https://michaelborck.au/interests.html</loc>
-    <lastmod>2024-05-17T12:40:59.584Z</lastmod>
+    <loc>https://michaelborck.au/talks/food-science.html</loc>
+    <lastmod>2024-05-18T11:23:35.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/talks/emcr.html</loc>
+    <lastmod>2024-05-18T11:20:18.055Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/talks/fblab.html</loc>
+    <lastmod>2024-05-18T11:21:15.462Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/about/expertise.html</loc>
+    <lastmod>2024-05-18T07:59:16.815Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/about/skills.html</loc>
+    <lastmod>2024-05-18T07:59:08.215Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/about/connect.html</loc>
+    <lastmod>2024-05-18T08:59:01.546Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/passions/building-dreams-layer-by-layer.html</loc>
+    <lastmod>2024-05-18T00:43:08.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/passions/beyond-the-ruck.html</loc>
+    <lastmod>2024-05-18T00:42:58.709Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/passions/love-all-serve-all.html</loc>
+    <lastmod>2024-05-18T00:43:18.405Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/passions/small-wonders-big-backyard.html</loc>
+    <lastmod>2024-05-18T00:44:16.705Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/teaching.html</loc>
-    <lastmod>2024-05-17T12:52:07.863Z</lastmod>
+    <lastmod>2024-05-18T00:22:49.507Z</lastmod>
   </url>
   <url>
-    <loc>https://michaelborck.au/interests/interests-1.html</loc>
-    <lastmod>2024-05-17T12:51:28.119Z</lastmod>
+    <loc>https://michaelborck.au/passions.html</loc>
+    <lastmod>2024-05-18T08:15:34.548Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/index.html</loc>
-    <lastmod>2024-05-17T13:33:05.464Z</lastmod>
+    <lastmod>2024-05-18T11:26:27.731Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/projects.html</loc>
-    <lastmod>2024-05-17T12:41:42.339Z</lastmod>
+    <lastmod>2024-05-18T02:19:49.198Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/passions/pixel-power.html</loc>
+    <lastmod>2024-05-18T00:43:36.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/passions/finding-my-rhythm.html</loc>
+    <lastmod>2024-05-18T00:43:13.341Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/passions/my-backyard-cosmic-canvas.html</loc>
+    <lastmod>2024-05-18T00:43:29.681Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/passions/the-way-of-the-warrior.html</loc>
+    <lastmod>2024-05-18T00:44:21.529Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/about/interest.html</loc>
+    <lastmod>2024-05-18T08:14:12.068Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/about/education.html</loc>
+    <lastmod>2024-05-18T07:59:02.995Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/about/hello.html</loc>
+    <lastmod>2024-05-18T08:01:59.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/talks/somm-sab.html</loc>
+    <lastmod>2024-05-18T11:24:36.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/talks/fowi.html</loc>
+    <lastmod>2024-05-18T11:23:26.713Z</lastmod>
   </url>
   <url>
     <loc>https://michaelborck.au/about.html</loc>
-    <lastmod>2024-05-17T13:37:29.298Z</lastmod>
+    <lastmod>2024-05-18T08:28:57.106Z</lastmod>
   </url>
   <url>
-    <loc>https://michaelborck.au/projects/projects-1.html</loc>
-    <lastmod>2024-05-17T12:51:06.343Z</lastmod>
+    <loc>https://michaelborck.au/projects/simnexus.html</loc>
+    <lastmod>2024-05-18T00:44:45.197Z</lastmod>
   </url>
   <url>
-    <loc>https://michaelborck.au/teaching/teaching-1.html</loc>
-    <lastmod>2024-05-17T12:51:52.343Z</lastmod>
+    <loc>https://michaelborck.au/projects/polysim.html</loc>
+    <lastmod>2024-05-18T00:44:40.761Z</lastmod>
   </url>
   <url>
-    <loc>https://michaelborck.au/research/research-1.html</loc>
-    <lastmod>2024-05-17T12:43:53.522Z</lastmod>
+    <loc>https://michaelborck.au/talks-presentations.html</loc>
+    <lastmod>2024-05-18T09:28:29.889Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/teaching-philosphy.html</loc>
+    <lastmod>2024-05-18T07:41:51.995Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/teaching/experience.html</loc>
+    <lastmod>2024-05-18T07:42:40.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelborck.au/research/publications.html</loc>
+    <lastmod>2024-05-18T11:17:15.097Z</lastmod>
   </url>
 </urlset>

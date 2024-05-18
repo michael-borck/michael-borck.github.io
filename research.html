@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -130,7 +130,7 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="css/styles.css">
 <meta name="twitter:title" content="Michael Borck - Research">
 <meta name="twitter:description" content="A personal website showcasing my projects, interests, and professional portfolio.">
 <meta name="twitter:card" content="summary">
@@ -174,8 +174,43 @@ window.Quarto = {
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./talks-presentations.html"> 
+<span class="menu-text">Talks &amp; Presentations</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./passions.html"> 
+<span class="menu-text">Passions</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./musings.html"> 
 <span class="menu-text">Musings</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/michael-borck"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-twitter" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-facebook" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-youtube" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Michael_Borck"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -206,7 +241,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="AI">AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="AI Applications">AI Applications <span class="quarto-category-count">(1)</span></div><div class="category" data-category="AI Ethics">AI Ethics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Academic Research">Academic Research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Artificial Intelligence">Artificial Intelligence <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Conferences">Conferences <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Data Analysis">Data Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Language Models">Language Models <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Machine Learning">Machine Learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Technical Papers">Technical Papers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="chuncking">chuncking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="education">education <span class="quarto-category-count">(2)</span></div><div class="category" data-category="fine-tuning">fine-tuning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="jailbreak">jailbreak <span class="quarto-category-count">(1)</span></div><div class="category" data-category="llm">llm <span class="quarto-category-count">(6)</span></div><div class="category" data-category="prompt">prompt <span class="quarto-category-count">(1)</span></div><div class="category" data-category="prompts">prompts <span class="quarto-category-count">(1)</span></div><div class="category" data-category="python">python <span class="quarto-category-count">(3)</span></div><div class="category" data-category="rag">rag <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -214,54 +249,210 @@ window.Quarto = {
 
 
 
-<p>Explore my latest projects and experiments.</p>
+<p>Bridging the Gap Between Theory and Practice: My Research in AI, Education, and Computer Vision.</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1715875200000" data-listing-file-modified-sort="1715949829286" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
-<a href="./research/research-2.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="Artificial Intelligence,AI,Language Models,Data Analysis,Machine Learning,Academic Research,Conferences,Technical Papers,AI Ethics,AI Applications" data-listing-file-modified-sort="1716031035097" data-listing-reading-time-sort="1" data-listing-word-count-sort="171">
+<a href="./research/publications.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="listing-item-img-placeholder card-img-top" style="height: 0;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Research Title 2
+Publications
 </h5>
-<div class="card-text listing-description">
-Brief project description.
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Artificial Intelligence'); return false;">
+Artificial Intelligence
 </div>
-<div class="card-attribution card-text-small justify">
+<div class="listing-category" onclick="window.quartoListingCategory('AI'); return false;">
+AI
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Language Models'); return false;">
+Language Models
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Data Analysis'); return false;">
+Data Analysis
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Machine Learning'); return false;">
+Machine Learning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Academic Research'); return false;">
+Academic Research
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Conferences'); return false;">
+Conferences
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Technical Papers'); return false;">
+Technical Papers
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('AI Ethics'); return false;">
+AI Ethics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('AI Applications'); return false;">
+AI Applications
+</div>
+</div>
+<div class="card-text listing-description">
+Dive into my research journey through a curated list of my published works.
+</div>
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
 
-</div>
-<div class="listing-date">
-May 17, 2024
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1715875200000" data-listing-file-modified-sort="1715949833522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
-<a href="./research/research-1.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="python,education,llm">
+<a href="https://barg-curtin-university.github.io/practical-intro-to-llms/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Research Title 1
+Mastering Large Language Models: A Hands-On Guide to Practical Applications
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('education'); return false;">
+education
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('llm'); return false;">
+llm
+</div>
+</div>
 <div class="card-text listing-description">
-Brief project description.
+Explore the fundamentals and practical applications of Large Language Models through hands-on examples and interactive learning.
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
 </div>
-<div class="listing-date">
-May 17, 2024
 </div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="python,llm,fine-tuning,rag">
+<a href="https://barg-curtin-university.github.io/enhanced-quantized-llms/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Expanding the Horizons of Large Language Models: A Comparative Study of Fine-Tuning, Retrieval-Augmented Generation, and Hybrid Techniques
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('llm'); return false;">
+llm
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('fine-tuning'); return false;">
+fine-tuning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('rag'); return false;">
+rag
+</div>
+</div>
+<div class="card-text listing-description">
+A comparative study of fine-tuning, retrieval-augmented generation, and their combination for enhancing the capabilities of smaller, quantised large language models.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="python,llm,education">
+<a href="https://barg-curtin-university.github.io/ai-academic-grading-efficacy/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+AssessLLMs for Academic Grading Efficiency
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('llm'); return false;">
+llm
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('education'); return false;">
+education
+</div>
+</div>
+<div class="card-text listing-description">
+Using LLMs to compare again human graders
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="prompt,llm">
+<a href="https://barg-curtin-university.github.io/prompt-engineering-strategies/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Revisiting Prompt Engineering: Strategic Interactions with Large Language Models for Application Development
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('prompt'); return false;">
+prompt
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('llm'); return false;">
+llm
+</div>
+</div>
+<div class="card-text listing-description">
+Exploring advanced techniques and strategies in prompt engineering to enhance interactions with large language models for robust application development.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="llm,chuncking,rag">
+<a href="https://barg-curtin-university.github.io/llm-chunking-stratagies/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Optimising Language Models with Advanced Text Chunking Strategies
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('llm'); return false;">
+llm
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('chuncking'); return false;">
+chuncking
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('rag'); return false;">
+rag
+</div>
+</div>
+<div class="card-text listing-description">
+Exploring advanced text chunking techniques like semantic and agentic chunking to optimize large language models for retrieval-augmented generation applications.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="prompts,llm,jailbreak">
+<a href="https://barg-curtin-university.github.io/taxonomy-of-ai-jailbreaks/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Unveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('prompts'); return false;">
+prompts
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('llm'); return false;">
+llm
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('jailbreak'); return false;">
+jailbreak
+</div>
+</div>
+<div class="card-text listing-description">
+insights and a taxonomy of language model safeguards bypassing techniques within Generative AI (Gen-AI) systems
 </div>
 </div>
 </div>
@@ -866,7 +1057,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </ul>
     </div>
     <div class="nav-footer-right">
-      &nbsp;
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./path/to/resume.pdf">
+<p>Resume (One Page PDF)</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="./path/to/cv.pdf">
+<p>CV (Detailed 10 Page PDF)</p>
+</a>
+  </li>  
+</ul>
     </div>
   </div>
 </footer>

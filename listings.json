@@ -2,8 +2,7 @@
   {
     "listing": "/research.html",
     "items": [
-      "/research/research-2.html",
-      "/research/research-1.html"
+      "/research/publications.html"
     ]
   },
   {
@@ -13,32 +12,66 @@
     ]
   },
   {
-    "listing": "/interests.html",
+    "listing": "/teaching.html",
     "items": [
-      "/interests/interests-1.html"
+      "/teaching/teaching-philosphy.html",
+      "/teaching/courses_taught.html",
+      "/teaching/experience.html",
+      "/teaching/resources.html"
     ]
   },
   {
-    "listing": "/teaching.html",
+    "listing": "/passions.html",
     "items": [
-      "/teaching/teaching-1.html"
+      "/passions/small-wonders-big-backyard.html",
+      "/passions/pixel-power.html",
+      "/passions/love-all-serve-all.html",
+      "/passions/finding-my-rhythm.html",
+      "/passions/beyond-the-ruck.html",
+      "/passions/my-backyard-cosmic-canvas.html",
+      "/passions/building-dreams-layer-by-layer.html",
+      "/passions/the-way-of-the-warrior.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/about.html",
       "/research.html",
       "/teaching.html",
       "/projects.html",
       "/musings.html",
-      "/interests.html"
+      "/passions.html",
+      "/talks-presentations.html"
     ]
   },
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/projects-1.html"
+      "/projects/simnexus.html",
+      "/projects/cloudcore.html",
+      "/projects/polysim.html",
+      "/projects/trueroll.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/about/connect.html",
+      "/about/interest.html",
+      "/about/skills.html",
+      "/about/education.html",
+      "/about/expertise.html",
+      "/about/hello.html"
+    ]
+  },
+  {
+    "listing": "/talks-presentations.html",
+    "items": [
+      "/talks/fblab.html",
+      "/talks/fowi.html",
+      "/talks/food-science.html",
+      "/talks/somm-sab.html",
+      "/talks/emcr.html"
     ]
   }
 ]
