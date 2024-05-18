@@ -1,6 +1,14 @@
 ---
-title: "About Me"
-description: "A brief introduction to my background, interests, and passions."
+title: "About"
+description: "Get to know the man behind the code, the camera, and the guitar."
+listing:
+  contents: about
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  image-height: "0"
 ---
-
-(Your about me content here)
+- [Resume (One Page PDF)](/path/to/resume.pdf)
+- [CV (Detailed 10 Page PDF)](/path/to/cv.pdf)

@@ -7,8 +7,11 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
+  image-height: "0"
 page-layout: full
 title-block-banner: true
 ---
 
-Explore my latest projects and experiments.
+From Classroom to Playground: My Software Experiments and Explorations
+
+<script src="scripts/script.js" defer></script>

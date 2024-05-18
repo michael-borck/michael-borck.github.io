@@ -1,0 +1,8 @@
+---
+title: "Teaching Resources"
+description: "Access a collection of valuable teaching materials and resources I've created to enhance the learning experience."
+categories: [Lecture Slides, Development, Information Systems]
+---
+
+- [Navigating the Landscape of System Development](link_to_resource)
+- [Introduction to Information Systems - Lecture Slides](link_to_resource)

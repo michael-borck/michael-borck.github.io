@@ -1,14 +1,42 @@
 ---
 title: "Research"
 listing:
-  contents: research
-  sort: "date desc"
+  contents: 
+    - "research/*.qmd"
+    - path: "https://barg-curtin-university.github.io/practical-intro-to-llms/" 
+      title: "Mastering Large Language Models: A Hands-On Guide to Practical Applications"
+      description: "Explore the fundamentals and practical applications of Large Language Models through hands-on examples and interactive learning."
+      categories: [python, education, llm]
+    - path: "https://barg-curtin-university.github.io/enhanced-quantized-llms/"
+      title: "Expanding the Horizons of Large Language Models: A Comparative Study of Fine-Tuning, Retrieval-Augmented Generation, and Hybrid Techniques"
+      description: "A comparative study of fine-tuning, retrieval-augmented generation, and their combination for enhancing the capabilities of smaller, quantised large language models."
+      categories: [python, llm, fine-tuning, rag]
+    - path: "https://barg-curtin-university.github.io/ai-academic-grading-efficacy/"
+      title: "AssessLLMs for Academic Grading Efficiency"
+      description: "Using LLMs to compare again human graders"
+      categories: [python, llm, education]
+    - path: "https://barg-curtin-university.github.io/prompt-engineering-strategies/"
+      title: "Revisiting Prompt Engineering: Strategic Interactions with Large Language Models for Application Development"
+      description: "Exploring advanced techniques and strategies in prompt engineering to enhance interactions with large language models for robust application development."
+      categories: [prompt, llm]
+    - path: https://barg-curtin-university.github.io/llm-chunking-stratagies/
+      title: "Optimising Language Models with Advanced Text Chunking Strategies"
+      description: "Exploring advanced text chunking techniques like semantic and agentic chunking to optimize large language models for retrieval-augmented generation applications."
+      categories: [llm, chuncking, rag]
+    - path: "https://barg-curtin-university.github.io/taxonomy-of-ai-jailbreaks/"
+      title: "Unveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics"
+      description: " insights and a taxonomy of language model safeguards bypassing techniques within Generative AI (Gen-AI) systems"
+      categories: [prompts, llm, jailbreak]
+  sort: "desc date"
   type: grid
   categories: true
   sort-ui: false
   filter-ui: false
+  image-height: "0"
 page-layout: full
 title-block-banner: true
+execute:
+  echo: False
 ---
 
-Explore my latest projects and experiments.
+Bridging the Gap Between Theory and Practice: My Research in AI, Education, and Computer Vision.

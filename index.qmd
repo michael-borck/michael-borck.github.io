@@ -1,13 +1,14 @@
 ---
 listing:
   contents: 
-    - about.qmd
     - research.qmd
     - teaching.qmd
     - projects.qmd
     - musings.qmd
-    - interests.qmd
+    - passions.qmd
+    - talks-presentations.qmd
   sort: "manual"
   type: grid
   image-height: "0"
 ---
+

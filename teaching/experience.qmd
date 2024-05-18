@@ -1,0 +1,13 @@
+---
+title: "Teaching Experience"
+description: "Explore my diverse teaching experiences, from the Australian Navy to leading university courses."
+categories: [Australian Navy, University, Information Systems, Computer Science]
+---
+
+- Business Information Systems, Curtin University
+- Computer Science, Curtin University
+- Australian Navy Training Command
+- West TAFE, Joondalup
+- Curtin International College
+- Stanley College
+- Australian Data Cybersecurity Institute

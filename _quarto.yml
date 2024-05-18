@@ -19,8 +19,23 @@ website:
         text: Teaching
       - href: projects.qmd
         text: Projects
+      - href: talks-presentations.qmd
+        text: Talks & Presentations
+      - href: passions.qmd
+        text: Passions
       - href: musings.qmd
         text: Musings
+    right: 
+      - icon: github
+        href: https://github.com/michael-borck
+      - icon: twitter
+        href: https://x.com/Michael_Borck
+      - icon: facebook
+        href: https://x.com/Michael_Borck
+      - icon: youtube
+        href: https://x.com/Michael_Borck
+      - icon: linkedin
+        href: https://x.com/Michael_Borck
   page-footer:
     center: 
       - icon: github
@@ -33,10 +48,15 @@ website:
         href: https://x.com/Michael_Borck
       - icon: linkedin
         href: https://x.com/Michael_Borck
+    right: 
+      - text: "Resume (One Page PDF)"
+        href: /path/to/resume.pdf
+      - text: "CV (Detailed 10 Page PDF)"
+        href: /path/to/cv.pdf
  
 format:
   html:
-    css: styles.css
+    css: css/styles.css
     toc: false
     theme:
       light: litera
