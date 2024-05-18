@@ -31,11 +31,11 @@ website:
       - icon: twitter
         href: https://x.com/Michael_Borck
       - icon: facebook
-        href: https://x.com/Michael_Borck
+        href: https://www.facebook.com/michael.borck
       - icon: youtube
-        href: https://x.com/Michael_Borck
+        href: https://www.youtube.com/channel/UCpD75EyTrTDJ61DmjYyzOcA
       - icon: linkedin
-        href: https://x.com/Michael_Borck
+        href: https://au.linkedin.com/in/michaelborck
   page-footer:
     center: 
       - icon: github
@@ -43,23 +43,23 @@ website:
       - icon: twitter
         href: https://x.com/Michael_Borck
       - icon: facebook
-        href: https://x.com/Michael_Borck
+        href: https://www.facebook.com/michael.borck
       - icon: youtube
-        href: https://x.com/Michael_Borck
+        href: https://www.youtube.com/channel/UCpD75EyTrTDJ61DmjYyzOcA
       - icon: linkedin
-        href: https://x.com/Michael_Borck
+        href: https://au.linkedin.com/in/michaelborck
     right: 
       - text: "Resume (One Page PDF)"
-        href: /path/to/resume.pdf
+        href: /files/resume.pdf
       - text: "CV (Detailed 10 Page PDF)"
-        href: /path/to/cv.pdf
+        href: /files/cv.pdf
  
 format:
   html:
     css: css/styles.css
     toc: false
     theme:
-      light: litera
+      light: flatly
       dark: darkly
 
 execute:

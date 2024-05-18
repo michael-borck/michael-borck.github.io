@@ -10,5 +10,5 @@ listing:
   filter-ui: false
   image-height: "0"
 ---
-- [Resume (One Page PDF)](/path/to/resume.pdf)
-- [CV (Detailed 10 Page PDF)](/path/to/cv.pdf)
+- [Resume (One Page PDF)](/files/resume.pdf)
+- [CV (Detailed 10 Page PDF)](/files/cv.pdf)
