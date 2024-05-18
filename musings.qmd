@@ -1,5 +1,6 @@
 ---
 title: "Musings"
+description: "Beyond the Binary: Thoughts That Challenge, Inspire, and Entertain"
 listing:
   contents: musings
   sort: "date desc"
@@ -13,4 +14,3 @@ title-block-banner: true
 image-height: "0"
 ---
 
-Beyond the Binary: Thoughts That Challenge, Inspire, and Entertain

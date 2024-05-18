@@ -1,5 +1,6 @@
 ---
 title: "Talks & Presentations"
+description: "Ignite ideas and spark conversations: Explore my curated collection of talks and presentations."
 listing:
   contents: talks 
   sort: "date desc"
@@ -13,5 +14,3 @@ title-block-banner: true
 execute:
   echo: False
 ---
-
-Bridging the Gap Between Theory and Practice: My Research in AI, Education, and Computer Vision.

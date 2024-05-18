@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "Bridging the Gap Between Theory and Practice: My Research in AI, Education, and Computer Vision."
 listing:
   contents: 
     - "research/*.qmd"
@@ -38,5 +39,3 @@ title-block-banner: true
 execute:
   echo: False
 ---
-
-Bridging the Gap Between Theory and Practice: My Research in AI, Education, and Computer Vision.

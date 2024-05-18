@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+description: "From Classroom to Playground: My Software Experiments and Explorations"
 listing:
   contents: projects
   sort: "date desc"
@@ -12,6 +13,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-From Classroom to Playground: My Software Experiments and Explorations
 
-<script src="scripts/script.js" defer></script>

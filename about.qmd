@@ -2,8 +2,14 @@
 title: "About"
 description: "Get to know the man behind the code, the camera, and the guitar."
 listing:
-  contents: about
-  sort: "date desc"
+  contents: 
+    - about/hello.qmd
+    - about/connect.qmd
+    - about/expertise.qmd
+    - about/education.qmd
+    - about/interest.qmd
+    - about/skills.qmd
+  sort: false
   type: grid
   categories: true
   sort-ui: false

@@ -1,5 +1,6 @@
 ---
 title: "Passions"
+description: "From Pixels to Planets: My Explorations in Art, Science, and Play"
 listing:
   contents: passions
   sort: "date desc"
@@ -12,4 +13,3 @@ page-layout: full
 title-block-banner: true
 ---
 
-From Pixels to Planets: My Explorations in Art, Science, and Play

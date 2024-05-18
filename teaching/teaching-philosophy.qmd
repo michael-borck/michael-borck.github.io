@@ -1,10 +1,8 @@
 ---
-title: "Teaching Philosophy"
+title: "Empowering Students, Transforming Lives: A Holistic Approach to Education Rooted in Compassion and Expertise"
 description: "Discover the core principles that guide my approach to inspiring and transforming the educational journey."
 categories: [Caring, Competence, Passion, Education]
 ---
-
-
 
 My teaching philosophy is grounded in three conceptual pillars: **Caring**, **Competence**, and **Passion**. I believe that education should be an inspiring and transformative journey, and I strive to create a dynamic and inclusive classroom environment where students feel encouraged to explore, question, and apply their knowledge.
 

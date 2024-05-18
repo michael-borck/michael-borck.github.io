@@ -1,5 +1,5 @@
 ---
-title: "Exploring SimNexus: A Business Simulation Toolkit"
+title: "SimNexus: A Business Simulation Toolkit"
 format: html
 categories: [python, education, simulation, business]
 ---
