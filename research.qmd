@@ -28,6 +28,14 @@ listing:
       title: "Unveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics"
       description: " insights and a taxonomy of language model safeguards bypassing techniques within Generative AI (Gen-AI) systems"
       categories: [prompts, llm, jailbreak]
+    - path: "https://barg-curtin-university.github.io/specialised-ai-models-over-llms/"
+      title: "The Case for Specialised AI Models: Overcoming the Limitations of Large Language Models (LLMs)"
+      description: "This project explores the advantages of specialised AI models over large language models (LLMs) for specific tasks, demonstrating their superior performance, cost-effectiveness, and customisability through a case study."
+      categories: [specialised AI, Large Language Models (LLMs), Figma, Code Generation, Customisation]
+    - path: "https://barg-curtin-university.github.io/llm-development-guide/"
+      title: "Developing Large Language Models from Scratch: A Comprehensive Guide"
+      description: "A comprehensive guide on developing large language models from scratch, detailing data curation, model architecture, training at scale, and evaluation."
+      categories: [Large Language Models (LLMs), Data Curation, Model Architecture, Training Techniques, Evaluation Methods] 
   sort: "desc date"
   type: grid
   categories: true
