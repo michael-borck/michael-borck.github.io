@@ -2,12 +2,13 @@
 title: "Talks & Presentations"
 description: "Ignite ideas and spark conversations: Explore my curated collection of talks and presentations."
 listing:
-  contents: talks 
+  contents: talks
+  fields: [title, description, categories, date, reading-time]
   sort: "date desc"
   type: grid
   categories: true
-  sort-ui: false
-  filter-ui: false
+  sort-ui: true
+  filter-ui: true
   image-height: "0"
 page-layout: full
 title-block-banner: true

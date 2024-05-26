@@ -2,11 +2,11 @@
 listing:
   contents: 
     - research.qmd
-    - teaching.qmd
+    - talks-presentations.qmd
     - projects.qmd
     - musings.qmd
     - passions.qmd
-    - talks-presentations.qmd
+    - teaching.qmd
   sort: "manual"
   type: grid
   image-height: "0"

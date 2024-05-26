@@ -3,11 +3,12 @@ title: "Musings"
 description: "Beyond the Binary: Thoughts That Challenge, Inspire, and Entertain"
 listing:
   contents: musings
+  fields: [title, description, categories, date, reading-time]
   sort: "date desc"
   type: grid
   categories: true
-  sort-ui: false
-  filter-ui: false
+  sort-ui: true
+  filter-ui: true
   image-height: "0"
 page-layout: full
 title-block-banner: true

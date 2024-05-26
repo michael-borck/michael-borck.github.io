@@ -1,5 +1,5 @@
 ---
-title: "Hi!"
+title: "Welcome!"
 description: "Get to know the man behind the code, the camera, and the guitar."
 categories: [Michael Borck, Educator, Researcher, Personal Journey]
 order: 1
